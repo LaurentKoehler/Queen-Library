@@ -17,8 +17,7 @@ function AlbumDetails() {
             <h2>{album.title}</h2>
 
             <article className="cover-and-track">
-                <img src={`.${album.cover}`} alt={album.title} />
-                <div className="tracklist">
+                <img src={`${import.meta.env.BASE_URL}${album.cover.replace(/^\//, '')}`} alt={album.title} />                <div className="tracklist">
                     <ol>
                         {album.tracklist.map((track) => (
                             <li key={track.title}>
