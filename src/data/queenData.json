@@ -57,7 +57,7 @@
       "Keep Yourself Alive",
       "Liar"
     ],
-    "cover": "/assets/covers/QUEEN_1.jpg",
+    "cover": "assets/covers/QUEEN_1.jpg",
     "description": "Le premier album de Queen mélange hard rock, heavy metal et rock progressif avec une touche folk. Enregistré en grande partie comme sessions de démonstration pour les nouveaux studios De Lane Lea, il pose les bases du son Queen.",
     "tracklist": [
       {
@@ -169,7 +169,7 @@
     "notableSingles": [
       "Seven Seas of Rhye"
     ],
-    "cover": "/assets/covers/QUEEN_2.jpg",
+    "cover": "assets/covers/QUEEN_2.jpg",
     "description": "Divisé en une « face blanche » et une « face noire », Queen II est une œuvre conceptuelle progressive et ambitieuse. Première incursion du groupe dans des arrangements orchestraux élaborés et des structures de chansons complexes.",
     "tracklist": [
       {
@@ -288,7 +288,7 @@
       "Killer Queen",
       "Now I'm Here"
     ],
-    "cover": "/assets/covers/SHA.jpg",
+    "cover": "assets/covers/SHA.jpg",
     "description": "Le premier grand succès commercial de Queen. « Killer Queen » propulse le groupe vers la célébrité en atteignant la 2e place des charts UK. Marque un virage vers un son plus accessible et varié.",
     "tracklist": [
       {
@@ -423,7 +423,7 @@
       "Bohemian Rhapsody",
       "You're My Best Friend"
     ],
-    "cover": "/assets/covers/ANATO.jpg",
+    "cover": "assets/covers/ANATO.jpg",
     "description": "Considéré comme le chef-d'œuvre de Queen. Contient « Bohemian Rhapsody », première chanson de rock à opéra de l'histoire. Nommé d'après le film des Marx Brothers, il était à l'époque l'album le plus cher jamais produit.",
     "tracklist": [
       {
@@ -549,7 +549,7 @@
       "Tie Your Mother Down",
       "Good Old-Fashioned Lover Boy"
     ],
-    "cover": "/assets/covers/DATR.jpg",
+    "cover": "assets/covers/DATR.jpg",
     "description": "Premier album entièrement autoproduit par Queen. Nommé comme son prédécesseur d'après un film des Marx Brothers, il atteint la 1re place des charts UK et contient « Somebody to Love ».",
     "tracklist": [
       {
@@ -661,7 +661,7 @@
       "We Are the Champions / We Will Rock You",
       "Spread Your Wings"
     ],
-    "cover": "/assets/covers/NOTW.jpg",
+    "cover": "assets/covers/NOTW.jpg",
     "description": "L'album qui a donné au monde « We Will Rock You » et « We Are the Champions ». Réponse au punk rock ambiant, il adopte un son plus direct et brut que ses prédécesseurs.",
     "tracklist": [
       {
@@ -781,7 +781,7 @@
       "Bicycle Race / Fat Bottomed Girls",
       "Don't Stop Me Now"
     ],
-    "cover": "/assets/covers/JAZZ.jpg",
+    "cover": "assets/covers/JAZZ.jpg",
     "description": "Premier album enregistré hors du Royaume-Uni pour des raisons fiscales. Dernier album coproduit avec Roy Thomas Baker. « Don't Stop Me Now » deviendra l'une des chansons les plus aimées du groupe.",
     "tracklist": [
       {
@@ -911,7 +911,7 @@
       "Play the Game",
       "Save Me"
     ],
-    "cover": "../assets/covers/GAME.jpg",
+    "cover": "assets/covers/GAME.jpg",
     "description": "Le seul album de Queen à avoir atteint la 1re place du Billboard 200 américain. Premier à intégrer des synthétiseurs (Oberheim OB-X). Contient deux #1 US : « Crazy Little Thing Called Love » et « Another One Bites the Dust ».",
     "tracklist": [
       {
@@ -1158,7 +1158,7 @@
       "It's a Hard Life",
       "Hammer to Fall"
     ],
-    "cover": "/assets/covers/WORKS.jpg",
+    "cover": "assets/covers/WORKS.jpg",
     "description": "Premier album chez Capitol aux USA. Seul album enregistré partiellement aux États-Unis. « I Want to Break Free » avec son clip travestissement choque l'Amérique mais cartonne en Europe.",
     "tracklist": [
       {
@@ -1283,7 +1283,7 @@
       "Friends Will Be Friends",
       "Princes of the Universe"
     ],
-    "cover": "/assets/covers/AKOM.jpg",
+    "cover": "assets/covers/AKOM.jpg",
     "description": "Fortement inspiré de la bande originale du film Highlander. Premier album après Live Aid 1985. Directement #1 au UK dès sa sortie, il reste dans les charts 63 semaines.",
     "tracklist": [
       {
@@ -1393,7 +1393,7 @@
       "The Invisible Man",
       "Scandal"
     ],
-    "cover": "/assets/covers/MIRACLE.jpg",
+    "cover": "assets/covers/MIRACLE.jpg",
     "description": "Premier album où tous les titres sont crédités au groupe entier. Enregistré alors que Freddie Mercury était déjà atteint du SIDA, bien que le groupe ne l'ait pas révélé publiquement.",
     "tracklist": [
       {
@@ -1513,7 +1513,7 @@
       "These Are the Days of Our Lives",
       "The Show Must Go On"
     ],
-    "cover": "/assets/covers/INNUENDO.jpg",
+    "cover": "assets/covers/INNUENDO.jpg",
     "description": "Le dernier album sorti du vivant de Freddie Mercury, décédé en novembre 1991. #1 au UK et dans plusieurs pays européens. Enregistré en grande partie à Montreux où Mercury pouvait travailler en paix.",
     "tracklist": [
       {
@@ -1638,7 +1638,7 @@
       "Too Much Love Will Kill You",
       "I Was Born to Love You"
     ],
-    "cover": "/assets/covers/MIH.jpg",
+    "cover": "assets/covers/MIH.jpg",
     "description": "Le quinzième et dernier album studio de Queen, sorti quatre ans après la mort de Freddie Mercury. Construit à partir d'enregistrements vocaux et de piano que Mercury avait laissés, auxquels May, Taylor et Deacon ont ajouté de nouveaux arrangements.",
     "tracklist": [
       {
@@ -1765,7 +1765,7 @@
     "notableSingles": [
       "Flash"
     ],
-    "cover": "/assets/covers/FLASH.jpg",
+    "cover": "assets/covers/FLASH.jpg",
     "description": "Bande originale du film de science-fiction Flash Gordon (1980). Premier soundtrack de Queen, il mêle rock et électronique progressive. Seul album à avoir Brian May comme producteur principal. Nominé aux BAFTA.",
     "tracklist": [
       {
@@ -1920,7 +1920,7 @@
     ],
     "guests": [],
     "notableSingles": [],
-    "cover": "/assets/covers/GREATEST_HITS_V2.jpg",
+    "cover": "assets/covers/GREATEST_HITS_V2.jpg",
     "description": "L'album le plus vendu de tous les temps au Royaume-Uni (plus de 25 millions de copies dans le monde). Couvre les hits de 1974 à 1980. Tracklist variable selon les territoires.",
     "tracklist": [
       {
@@ -2065,7 +2065,7 @@
       }
     ],
     "notableSingles": [],
-    "cover": "/assets/covers/GREATEST_HITS_2.jpg",
+    "cover": "assets/covers/GREATEST_HITS_2.jpg",
     "description": "Couvre les hits de 1981 à 1991. Sorti moins d'un mois avant la mort de Freddie Mercury — dernier album de Queen paru de son vivant. Tracklist universelle, contrairement au premier volume.",
     "tracklist": [
       {
@@ -2212,7 +2212,7 @@
     "notableSingles": [
       "No-One but You (Only the Good Die Young)"
     ],
-    "cover": "/assets/covers/QUEEN_ROCKS_V1.png",
+    "cover": "assets/covers/QUEEN_ROCKS_V1.png",
     "description": "Compilation atypique centrée sur le côté heavy et rock du groupe. Contient « No-One but You », le dernier enregistrement de John Deacon avant sa retraite.",
     "tracklist": [
       {
@@ -2357,7 +2357,7 @@
       }
     ],
     "notableSingles": [],
-    "cover": "/assets/covers/GREATEST_HITS_3_V1.jpg",
+    "cover": "assets/covers/GREATEST_HITS_3_V1.jpg",
     "description": "Crédité « Queen+ » : mélange hits Queen, solos des membres, collaborations et remixes. Contient « These Are the Days of Our Lives », dernière apparition de Freddie Mercury en clip vidéo.",
     "tracklist": [
       {
@@ -2487,7 +2487,7 @@
       }
     ],
     "notableSingles": [],
-    "cover": "/assets/covers/ABSOLUTE_GREATEST.jpg",
+    "cover": "assets/covers/ABSOLUTE_GREATEST.jpg",
     "description": "20 titres remasterisés depuis les bandes originales. Disponible en CD simple, double CD avec commentaires audio de Brian May et Roger Taylor, livre relié, et coffret vinyle.",
     "tracklist": [
       {
@@ -2632,7 +2632,7 @@
     "notableSingles": [
       "Love of My Life (Live)"
     ],
-    "cover": "/assets/covers/LIVE_KILLERS.jpg",
+    "cover": "assets/covers/LIVE_KILLERS.jpg",
     "description": "Premier album live de Queen, double vinyle enregistré durant la tournée européenne du Jazz Tour. Mixé au Mountain Studios de Montreux. Synthèse des sept premiers albums du groupe.",
     "tracklist": [
       {
@@ -2789,7 +2789,7 @@
     ],
     "guests": [],
     "notableSingles": [],
-    "cover": "/assets/covers/LIVE_MAGIC.jpg",
+    "cover": "assets/covers/LIVE_MAGIC.jpg",
     "description": "Deuxième album live de Queen, enregistré lors du Magic Tour 1986 — la dernière tournée avec Freddie Mercury. Édition condensée d'une tournée légendaire.",
     "tracklist": [
       {
@@ -2958,7 +2958,7 @@
     ],
     "guests": [],
     "notableSingles": [],
-    "cover": "/assets/covers/BBC.jpg",
+    "cover": "assets/covers/BBC.jpg",
     "description": "Enregistrements des sessions BBC de 1973. Capturé durant l'année de leur premier album, c'est un témoignage unique de Queen à leurs tout débuts.",
     "tracklist": [
       {
@@ -3057,7 +3057,7 @@
     "notableSingles": [
       "We Will Rock You / We Are the Champions (Live)"
     ],
-    "cover": "/assets/covers/LAWS.jpg",
+    "cover": "assets/covers/LAWS.jpg",
     "description": "Double album live enregistré lors du concert légendaire de Wembley du Magic Tour 1986. L'un des concerts live les plus acclamés de l'histoire du rock.",
     "tracklist": [
       {
@@ -3266,7 +3266,7 @@
     "notableSingles": [
       "Reaching Out / Tie Your Mother Down (Live)"
     ],
-    "cover": "/assets/covers/ROTC.jpg",
+    "cover": "assets/covers/ROTC.jpg",
     "description": "Premier album live post-Mercury, enregistré lors de la première tournée mondiale de Queen depuis 1991. Paul Rodgers (Free, Bad Company) tient le rôle de chanteur. John Deacon n'a pas participé à cette tournée.",
     "tracklist": [
       {
@@ -3463,7 +3463,7 @@
     ],
     "guests": [],
     "notableSingles": [],
-    "cover": "/assets/covers/ON_FIRE.jpg",
+    "cover": "assets/covers/ON_FIRE.jpg",
     "description": "Concert enregistré pendant le Hot Space Tour 1982. La voix de Freddie Mercury est considérée à son apogée lors de cette période. Sorti en double CD, triple LP et DVD.",
     "tracklist": [
       {
@@ -3630,7 +3630,7 @@
     ],
     "guests": [],
     "notableSingles": [],
-    "cover": "/assets/covers/ROCK_MONTREAL.jpg",
+    "cover": "assets/covers/ROCK_MONTREAL.jpg",
     "description": "Enregistré durant le Gluttons for Punishment Tour 1981. Des extraits avaient été utilisés dans le film de concert « We Will Rock You » (1984). Diffusé en IMAX en janvier 2024.",
     "tracklist": [
       {
@@ -3812,7 +3812,7 @@
     ],
     "guests": [],
     "notableSingles": [],
-    "cover": "/assets/covers/HUNGARIAN_RHAPSODY.jpg",
+    "cover": "assets/covers/HUNGARIAN_RHAPSODY.jpg",
     "description": "Concert filmé lors du Magic Tour 1986 en Hongrie, alors derrière le Rideau de Fer. Queen fut l'un des rares groupes occidentaux à s'y produire pendant la Guerre Froide. Le CD/DVD/Blu-ray sort en 2012.",
     "tracklist": [
       {
@@ -3975,7 +3975,7 @@
     ],
     "guests": [],
     "notableSingles": [],
-    "cover": "/assets/covers/RAINBOW'74.jpg",
+    "cover": "assets/covers/RAINBOW'74.jpg",
     "description": "Deux concerts captés au Rainbow Theatre de Londres en 1974, pendant les tournées Queen II et Sheer Heart Attack. Atteint la 11e place des charts UK.",
     "tracklist": [
       {
@@ -4143,7 +4143,7 @@
     ],
     "guests": [],
     "notableSingles": [],
-    "cover": "/assets/covers/ANATO.jpg",
+    "cover": "assets/covers/ANATO.jpg",
     "description": "Concert du réveillon de Noël 1975, filmé par la BBC. L'une des premières performances live de « Bohemian Rhapsody ». Longtemps le bootleg le plus populaire de Queen avant sa sortie officielle.",
     "tracklist": [
       {
@@ -4299,7 +4299,7 @@
     ],
     "guests": [],
     "notableSingles": [],
-    "cover": "/assets/covers/ON_AIR.jpg",
+    "cover": "assets/covers/ON_AIR.jpg",
     "description": "Coffret réunissant toutes les sessions BBC de Queen (1973–1986), incluant des concerts live radio et des sessions studio BBC. L'édition 6 CD deluxe ajoute des concerts live et trois disques d'interviews radio.",
     "tracklist": [
       {
@@ -4460,7 +4460,7 @@
     ],
     "guests": [],
     "notableSingles": [],
-    "cover": "/assets/covers/ATW.jpg",
+    "cover": "assets/covers/ATW.jpg",
     "description": "Compilation de concerts de la tournée mondiale Queen + Adam Lambert entre 2014 et 2020. Adam Lambert assure le chant depuis 2012. Deuxième album live de Queen + Adam Lambert (premier sorti internationalement).",
     "tracklist": [
       {

@@ -10,8 +10,8 @@ import AlbumDetails from './pages/AlbumDetails.tsx'
 import Home from './pages/Home.tsx'
 
 
-const router = createBrowserRouter([
-  {
+const router = createBrowserRouter(
+  [{
     path: "/",
     element: <App />,
     children: [
@@ -23,9 +23,10 @@ const router = createBrowserRouter([
       {
         path: "/album/:id",
         element: <AlbumDetails />
-      }]
-  }
-])
+      }],
+  }],
+  { basename: "/Queen-Library" }
+)
 createRoot(document.getElementById('root')!).render(
   // <App />
   <RouterProvider router={router} />
