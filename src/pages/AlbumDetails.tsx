@@ -17,7 +17,7 @@ function AlbumDetails() {
             <h2>{album.title}</h2>
 
             <article className="cover-and-track">
-                <img src={album.cover} alt={album.title} />
+                <img src={`.${album.cover}`} alt={album.title} />
                 <div className="tracklist">
                     <ol>
                         {album.tracklist.map((track) => (
