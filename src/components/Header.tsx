@@ -4,7 +4,7 @@ function Header() {
     const navigate = useNavigate()
     return (
         <header>
-            <img src="/assets/headerTOOAO.png" alt="Queen" />
+            <img src="assets/headerTOOAO.png" alt="Queen" />
             <nav>
                 <button onClick={() => navigate("/?filter=studio")}>Studio</button>
                 <button onClick={() => navigate("/?filter=live")}>Live</button>

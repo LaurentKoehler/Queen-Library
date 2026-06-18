@@ -27,7 +27,7 @@ function Footer() {
                 </a>
             </nav>
             <span>
-                <img src='/assets/header-condensed-logo.png' alt="Queen" />
+                <img src='assets/header-condensed-logo.png' alt="Queen" />
                 <p>&copy; 2026</p>
             </span>
         </footer>
