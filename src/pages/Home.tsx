@@ -12,7 +12,7 @@ function Home() {
     const songQuery = searchParams.get("song") ?? ""
     const yearQuery = searchParams.get("year") ?? ""
 
-    const filteredAlbum = albums
+    const filteredAlbum = [...albums]
         .filter((album) => activeFilter === "all" || album.albumType === activeFilter)
         .filter((album) => {
             if (songQuery === "") return true
@@ -24,7 +24,7 @@ function Home() {
             if (yearQuery === "") return true
             return album.year.toString().startsWith(yearQuery)
         })
-        .sort((a, b) => a.year - b.year)
+        .sort((a, b) => yearQuery ? a.year - b.year : a.id - b.id)
 
     return (
         <><h1>Albums</h1>
