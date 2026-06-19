@@ -28,12 +28,11 @@ function Footer() {
                 </a>
             </nav>
             <span>
-                <Link to="/">
+                <Link to="/" onClick={() => window.scrollTo(0, 0)}>
                     <img src={`${import.meta.env.BASE_URL}assets/header-condensed-logo.png`} alt="Queen" />
                 </Link>
                 <p>&copy; 2026</p>
-            </span>
-        </footer>
+            </span>        </footer>
     )
 }
 

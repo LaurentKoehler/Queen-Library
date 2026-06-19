@@ -34,10 +34,12 @@ function AlbumDetails() {
 
             <div className="nav-buttons">
                 <button onClick={() => navigate(`/album/${previousAlbum.id}`)}>
-                    ← {previousAlbum.title}
+                    <span className="arrow">‹</span>
+                    <span className="album-name">{previousAlbum.title}</span>
                 </button>
                 <button onClick={() => navigate(`/album/${nextAlbum.id}`)}>
-                    {nextAlbum.title} →
+                    <span className="arrow">›</span>
+                    <span className="album-name">{nextAlbum.title}</span>
                 </button>
             </div>
             <div className="bottom-row">
