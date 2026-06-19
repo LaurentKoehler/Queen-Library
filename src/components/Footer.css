@@ -47,3 +47,22 @@ footer {
         }
     }
 }
+
+@media screen and (max-width: 768px) {
+    footer {
+        flex-direction: column;
+        height: auto;
+        padding: 1rem;
+        gap: 1rem;
+
+        span {
+            position: static;
+            transform: none;
+        }
+
+        nav {
+            font-size: 1.2rem;
+            gap: 1rem;
+        }
+    }
+}

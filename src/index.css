@@ -32,3 +32,19 @@ main {
         font-size: 3.5rem;
     }
 }
+
+@media screen and (max-width: 768px) {
+
+    main {
+        padding: 0 1rem 1rem 1rem;
+        border-radius: 0;
+
+        .album-grid {
+            grid-template-columns: repeat(2, 1fr);
+        }
+
+        h1 {
+            font-size: 2rem;
+        }
+    }
+}

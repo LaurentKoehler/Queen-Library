@@ -43,3 +43,32 @@ header {
         }
     }
 }
+
+@media screen and (max-width: 768px) {
+
+    header {
+        height: 25vh;
+
+        img {
+            width: 80vw;
+        }
+
+        nav {
+            height: auto;
+            padding: 0.5rem;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            border-radius: 0;
+
+            button {
+                min-width: 20%;
+            }
+
+            input {
+                position: static;
+                width: 40%;
+                margin: 0.5rem auto;
+            }
+        }
+    }
+}
