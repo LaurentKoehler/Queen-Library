@@ -1,5 +1,5 @@
 import { createRoot } from 'react-dom/client'
-import { createBrowserRouter, RouterProvider } from 'react-router-dom'
+import { createHashRouter, RouterProvider } from 'react-router-dom'
 import './index.css'
 import './components/Album.css'
 import './pages/AlbumDetails.css'
@@ -10,7 +10,7 @@ import AlbumDetails from './pages/AlbumDetails.tsx'
 import Home from './pages/Home.tsx'
 
 
-const router = createBrowserRouter(
+const router = createHashRouter(
   [{
     path: "/",
     element: <App />,
@@ -25,7 +25,6 @@ const router = createBrowserRouter(
         element: <AlbumDetails />
       }],
   }],
-  { basename: "/Queen-Library" }
 )
 createRoot(document.getElementById('root')!).render(
   // <App />

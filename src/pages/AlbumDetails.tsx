@@ -9,8 +9,8 @@ function AlbumDetails() {
     const navigate = useNavigate();
     const album = albums.find((zizi) => zizi.id === Number(id));
     const currentIndex = albums.findIndex((aubergine) => aubergine.id === Number(id));
-    const previousALbum = albums[currentIndex - 1]
-    const nextAlbum = albums[currentIndex + 1]
+    const previousAlbum = albums[currentIndex - 1] ?? albums[albums.length - 1]
+    const nextAlbum = albums[currentIndex + 1] ?? albums[0]
 
     if (!album) {
         return <h1> Cet album n'existe pas</h1>
@@ -18,7 +18,7 @@ function AlbumDetails() {
 
     return (
         <section className="album-details">
-            <h2>{album.title}</h2>
+            <h1>{album.title}</h1>
 
             <article className="cover-and-track">
                 <img src={`${import.meta.env.BASE_URL}${album.cover.replace(/^\//, '')}`} alt={album.title} />
@@ -33,17 +33,12 @@ function AlbumDetails() {
             </article>
 
             <div className="nav-buttons">
-                {previousALbum && (
-                    <button onClick={() => navigate(`/album/${previousALbum.id}`)}>
-                        ← {previousALbum.title}
-                    </button>
-                )}
-                {nextAlbum && (
-                    <button onClick={() => navigate(`/album/${nextAlbum.id}`)}>
-                        {nextAlbum.title} →
-                    </button>
-                )}
-
+                <button onClick={() => navigate(`/album/${previousAlbum.id}`)}>
+                    ← {previousAlbum.title}
+                </button>
+                <button onClick={() => navigate(`/album/${nextAlbum.id}`)}>
+                    {nextAlbum.title} →
+                </button>
             </div>
             <div className="bottom-row">
                 <article className="description">
