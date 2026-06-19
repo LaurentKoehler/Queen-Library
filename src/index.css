@@ -37,7 +37,7 @@ main {
 
     main {
         padding: 0 1rem 1rem 1rem;
-        border-radius: 0;
+        border-radius: 35px;
 
         .album-grid {
             grid-template-columns: repeat(2, 1fr);
