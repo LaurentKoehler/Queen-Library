@@ -37,9 +37,26 @@ header {
 
         input {
             position: absolute;
-            right: 2rem;
+            right: 5rem;
             font-family: 'EB Garamond', serif;
-            color: black
+            color: black;
+            background: white;
+            border: none;
+            border-bottom: 2px solid #c9a84c;
+            padding: 0.2rem 0.8rem;
+            width: 200px;
+            outline: none;
+            border-radius: 9999px;
+
+            &::placeholder {
+                color: #888;
+                font-style: italic;
+            }
+
+            &:focus {
+                width: 220px;
+                transition: width 0.3s ease;
+            }
         }
     }
 }
