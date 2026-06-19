@@ -1,4 +1,4 @@
-import { useParams } from "react-router-dom"
+import { useParams, useNavigate } from "react-router-dom"
 import queenData from "../data/queenData.json"
 import type { Album as AlbumData } from "../types/types"
 
@@ -6,7 +6,11 @@ const albums = queenData as AlbumData[]
 
 function AlbumDetails() {
     const { id } = useParams();
-    const album = albums.find((zizi) => zizi.id === Number(id))
+    const navigate = useNavigate();
+    const album = albums.find((zizi) => zizi.id === Number(id));
+    const currentIndex = albums.findIndex((aubergine) => aubergine.id === Number(id));
+    const previousALbum = albums[currentIndex - 1]
+    const nextAlbum = albums[currentIndex + 1]
 
     if (!album) {
         return <h1> Cet album n'existe pas</h1>
@@ -17,7 +21,8 @@ function AlbumDetails() {
             <h2>{album.title}</h2>
 
             <article className="cover-and-track">
-                <img src={`${import.meta.env.BASE_URL}${album.cover.replace(/^\//, '')}`} alt={album.title} />                <div className="tracklist">
+                <img src={`${import.meta.env.BASE_URL}${album.cover.replace(/^\//, '')}`} alt={album.title} />
+                <div className="tracklist">
                     <ol>
                         {album.tracklist.map((track) => (
                             <li key={track.title}>
@@ -26,6 +31,20 @@ function AlbumDetails() {
                         ))}
                     </ol></div>
             </article>
+
+            <div className="nav-button">
+                {previousALbum && (
+                    <button onClick={() => navigate(`/album/${previousALbum.id}`)}>
+                        ← {previousALbum.title}
+                    </button>
+                )}
+                {nextAlbum && (
+                    <button onClick={() => navigate(`/album/${nextAlbum.id}`)}>
+                        {nextAlbum.title} →
+                    </button>
+                )}
+
+            </div>
             <div className="bottom-row">
                 <article className="description">
                     <p>{album.description}</p>
