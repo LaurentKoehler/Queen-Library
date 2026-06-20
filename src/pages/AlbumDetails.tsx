@@ -1,12 +1,14 @@
-import { useParams, useNavigate } from "react-router-dom"
-import queenData from "../data/queenData.json"
+import { useParams, useNavigate, useLocation } from "react-router-dom"
+import dataMap from "../data/index";
 import type { Album as AlbumData } from "../types/types"
 
-const albums = queenData as AlbumData[]
 
 function AlbumDetails() {
-    const { id } = useParams();
-    const navigate = useNavigate();
+    const { id } = useParams()
+    const navigate = useNavigate()
+    const location = useLocation()
+    const artist = location.pathname.split('/')[1]
+    const albums = (dataMap[artist ?? ""] ?? []) as AlbumData[]
     const album = albums.find((zizi) => zizi.id === Number(id));
     const currentIndex = albums.findIndex((aubergine) => aubergine.id === Number(id));
     const previousAlbum = albums[currentIndex - 1] ?? albums[albums.length - 1]
@@ -33,11 +35,11 @@ function AlbumDetails() {
             </article>
 
             <div className="nav-buttons">
-                <button onClick={() => navigate(`/album/${previousAlbum.id}`)}>
+                <button onClick={() => navigate(`/${artist}/album/${previousAlbum.id}`)}>
                     <span className="arrow">‹</span>
                     <span className="album-name">{previousAlbum.title}</span>
                 </button>
-                <button onClick={() => navigate(`/album/${nextAlbum.id}`)}>
+                <button onClick={() => navigate(`/${artist}/album/${nextAlbum.id}`)}>
                     <span className="arrow">›</span>
                     <span className="album-name">{nextAlbum.title}</span>
                 </button>

@@ -1,0 +1,3599 @@
+[
+  {
+    "id": 101,
+    "artist": "Pink Floyd",
+    "title": "The Piper at the Gates of Dawn",
+    "albumType": "studio",
+    "year": 1967,
+    "releaseDate": "5 août 1967",
+    "label": "EMI Columbia",
+    "labelUS": "Tower",
+    "studios": [
+      "Abbey Road Studios (Londres)"
+    ],
+    "producer": "Norman Smith",
+    "genre": [
+      "Psychédélique",
+      "Space rock",
+      "Acid pop",
+      "Rock expérimental"
+    ],
+    "members": [
+      {
+        "name": "Syd Barrett",
+        "instruments": [
+          "Guitare",
+          "Chant"
+        ]
+      },
+      {
+        "name": "Roger Waters",
+        "instruments": [
+          "Basse",
+          "Chant",
+          "Guitare"
+        ]
+      },
+      {
+        "name": "Richard Wright",
+        "instruments": [
+          "Claviers",
+          "Chant",
+          "Piano",
+          "Orgue",
+          "Synthétiseur"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [],
+    "notableSingles": [
+      "Arnold Layne",
+      "See Emily Play"
+    ],
+    "cover": "./assets/pink_floyd_covers/piper",
+    "description": "Le seul album enregistré sous la direction de Syd Barrett. Mélange de compositions psychédéliques fantaisistes et de longues improvisations spatiales, enregistré dans le studio 3 d'Abbey Road pendant que les Beatles enregistraient Sgt. Pepper's de l'autre côté du couloir. Syd Barrett en est le principal auteur-compositeur.",
+    "tracklist": [
+      {
+        "title": "Astronomy Domine",
+        "writer": "Syd Barrett",
+        "duration": "4:12"
+      },
+      {
+        "title": "Lucifer Sam",
+        "writer": "Syd Barrett",
+        "duration": "3:07"
+      },
+      {
+        "title": "Matilda Mother",
+        "writer": "Syd Barrett",
+        "duration": "3:08"
+      },
+      {
+        "title": "Flaming",
+        "writer": "Syd Barrett",
+        "duration": "2:46"
+      },
+      {
+        "title": "Pow R. Toc H.",
+        "writer": "Syd Barrett, Roger Waters, Richard Wright, Nick Mason",
+        "duration": "4:26"
+      },
+      {
+        "title": "Take Up Thy Stethoscope and Walk",
+        "writer": "Roger Waters",
+        "duration": "3:05"
+      },
+      {
+        "title": "Interstellar Overdrive",
+        "writer": "Syd Barrett, Roger Waters, Richard Wright, Nick Mason",
+        "duration": "9:41"
+      },
+      {
+        "title": "The Gnome",
+        "writer": "Syd Barrett",
+        "duration": "2:13"
+      },
+      {
+        "title": "Chapter 24",
+        "writer": "Syd Barrett",
+        "duration": "3:42"
+      },
+      {
+        "title": "The Scarecrow",
+        "writer": "Syd Barrett",
+        "duration": "2:11"
+      },
+      {
+        "title": "Bike",
+        "writer": "Syd Barrett",
+        "duration": "3:21"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "artist": "Pink Floyd",
+    "title": "A Saucerful of Secrets",
+    "albumType": "studio",
+    "year": 1968,
+    "releaseDate": "28 juin 1968",
+    "label": "Columbia",
+    "labelUS": "Tower",
+    "studios": [
+      "Abbey Road Studios (Londres)"
+    ],
+    "producer": "Norman Smith",
+    "genre": [
+      "Psychédélique",
+      "Rock expérimental",
+      "Space rock",
+      "Rock avant-garde"
+    ],
+    "members": [
+      {
+        "name": "Syd Barrett",
+        "instruments": [
+          "Guitare",
+          "Chant"
+        ]
+      },
+      {
+        "name": "David Gilmour",
+        "instruments": [
+          "Guitare",
+          "Chant",
+          "Basse",
+          "Claviers"
+        ]
+      },
+      {
+        "name": "Roger Waters",
+        "instruments": [
+          "Basse",
+          "Chant",
+          "Guitare"
+        ]
+      },
+      {
+        "name": "Richard Wright",
+        "instruments": [
+          "Claviers",
+          "Chant",
+          "Piano",
+          "Orgue",
+          "Synthétiseur"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [],
+    "notableSingles": [
+      "Let There Be More Light",
+      "Point Me at the Sky"
+    ],
+    "cover": "./assets/pink_floyd_covers/saucerful",
+    "description": "Album de transition où Syd Barrett, dont la santé mentale se détériorait, fut progressivement remplacé par David Gilmour. C'est le seul album à présenter les deux guitaristes. Barrett n'apparaît que sur un titre, 'Jugband Blues', qui sonne comme un adieu troublant.",
+    "tracklist": [
+      {
+        "title": "Let There Be More Light",
+        "writer": "Roger Waters",
+        "duration": "5:37"
+      },
+      {
+        "title": "Remember a Day",
+        "writer": "Richard Wright",
+        "duration": "4:33"
+      },
+      {
+        "title": "Set the Controls for the Heart of the Sun",
+        "writer": "Roger Waters",
+        "duration": "5:28"
+      },
+      {
+        "title": "Corporal Clegg",
+        "writer": "Roger Waters",
+        "duration": "4:10"
+      },
+      {
+        "title": "A Saucerful of Secrets",
+        "writer": "Syd Barrett, Roger Waters, Richard Wright, Nick Mason, David Gilmour",
+        "duration": "11:59"
+      },
+      {
+        "title": "See-Saw",
+        "writer": "Richard Wright",
+        "duration": "4:36"
+      },
+      {
+        "title": "Jugband Blues",
+        "writer": "Syd Barrett",
+        "duration": "3:01"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "artist": "Pink Floyd",
+    "title": "More",
+    "albumType": "soundtrack",
+    "year": 1969,
+    "releaseDate": "13 juin 1969",
+    "label": "Harvest",
+    "labelUS": "Tower",
+    "studios": [
+      "Pye Studios (Londres)"
+    ],
+    "producer": "Pink Floyd",
+    "genre": [
+      "Psychédélique",
+      "Rock expérimental",
+      "Folk rock",
+      "Jazz"
+    ],
+    "members": [
+      {
+        "name": "David Gilmour",
+        "instruments": [
+          "Guitare",
+          "Chant",
+          "Basse",
+          "Claviers"
+        ]
+      },
+      {
+        "name": "Roger Waters",
+        "instruments": [
+          "Basse",
+          "Chant",
+          "Guitare"
+        ]
+      },
+      {
+        "name": "Richard Wright",
+        "instruments": [
+          "Claviers",
+          "Chant",
+          "Piano",
+          "Orgue",
+          "Synthétiseur"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [],
+    "notableSingles": [
+      "The Nile Song",
+      "Crying Song"
+    ],
+    "cover": "./assets/pink_floyd_covers/more",
+    "description": "Bande originale du film de Barbet Schroeder 'More', tourné à Ibiza. Premier album autoproduit par le groupe et première collaboration avec le label Harvest. Mélange de rock psychédélique, de folk acoustique et d'expérimentations sonores.",
+    "tracklist": [
+      {
+        "title": "Cirrus Minor",
+        "writer": "Roger Waters",
+        "duration": "5:18"
+      },
+      {
+        "title": "The Nile Song",
+        "writer": "Roger Waters",
+        "duration": "3:25"
+      },
+      {
+        "title": "Crying Song",
+        "writer": "Roger Waters",
+        "duration": "3:34"
+      },
+      {
+        "title": "Up the Khyber",
+        "writer": "Nick Mason, Richard Wright",
+        "duration": "2:12"
+      },
+      {
+        "title": "Green Is the Colour",
+        "writer": "Roger Waters",
+        "duration": "2:59"
+      },
+      {
+        "title": "Cymbaline",
+        "writer": "Roger Waters",
+        "duration": "4:51"
+      },
+      {
+        "title": "Party Sequence",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "1:07"
+      },
+      {
+        "title": "Main Theme",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "5:28"
+      },
+      {
+        "title": "Ibiza Bar",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "3:11"
+      },
+      {
+        "title": "More Blues",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "2:12"
+      },
+      {
+        "title": "Quicksilver",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "7:11"
+      },
+      {
+        "title": "A Spanish Piece",
+        "writer": "David Gilmour",
+        "duration": "1:05"
+      },
+      {
+        "title": "Dramatic Theme",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "2:14"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "artist": "Pink Floyd",
+    "title": "Ummagumma",
+    "albumType": "live",
+    "year": 1969,
+    "releaseDate": "7 novembre 1969",
+    "label": "Harvest",
+    "labelUS": "Harvest",
+    "studios": [
+      "Abbey Road Studios (Londres)",
+      "Mothers Club (Birmingham)",
+      "Manchester College of Commerce"
+    ],
+    "venue": "Mothers Club (Birmingham) / Manchester College of Commerce",
+    "concertDate": "27 avril 1969 / 2 mai 1969",
+    "producer": "Norman Smith",
+    "genre": [
+      "Rock expérimental",
+      "Psychédélique",
+      "Avant-garde"
+    ],
+    "members": [
+      {
+        "name": "David Gilmour",
+        "instruments": [
+          "Guitare",
+          "Chant",
+          "Basse",
+          "Claviers"
+        ]
+      },
+      {
+        "name": "Roger Waters",
+        "instruments": [
+          "Basse",
+          "Chant",
+          "Guitare"
+        ]
+      },
+      {
+        "name": "Richard Wright",
+        "instruments": [
+          "Claviers",
+          "Chant",
+          "Piano",
+          "Orgue",
+          "Synthétiseur"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [],
+    "notableSingles": [],
+    "cover": "./assets/pink_floyd_covers/ummagumma",
+    "description": "Double album hybride : le premier disque est un live capturé lors de deux concerts en 1969, le second contient des compositions solo de chaque membre. Une expérience avant-gardiste unique où chaque musicien explore son univers personnel. La pochette utilise l'effet Droste avec des photos en abyme.",
+    "tracklist": [
+      {
+        "title": "Astronomy Domine (live)",
+        "writer": "Syd Barrett",
+        "duration": "8:32"
+      },
+      {
+        "title": "Careful with That Axe, Eugene (live)",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "8:52"
+      },
+      {
+        "title": "Set the Controls for the Heart of the Sun (live)",
+        "writer": "Roger Waters",
+        "duration": "9:20"
+      },
+      {
+        "title": "A Saucerful of Secrets (live)",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason, Syd Barrett",
+        "duration": "13:49"
+      },
+      {
+        "title": "Sysyphus, Part 1",
+        "writer": "Richard Wright",
+        "duration": "1:07"
+      },
+      {
+        "title": "Sysyphus, Part 2",
+        "writer": "Richard Wright",
+        "duration": "3:31"
+      },
+      {
+        "title": "Sysyphus, Part 3",
+        "writer": "Richard Wright",
+        "duration": "1:24"
+      },
+      {
+        "title": "Sysyphus, Part 4",
+        "writer": "Richard Wright",
+        "duration": "6:44"
+      },
+      {
+        "title": "Grantchester Meadows",
+        "writer": "Roger Waters",
+        "duration": "7:28"
+      },
+      {
+        "title": "Several Species of Small Furry Animals Gathered Together in a Cave and Grooving with a Pict",
+        "writer": "Roger Waters",
+        "duration": "4:59"
+      },
+      {
+        "title": "The Narrow Way, Part 1",
+        "writer": "David Gilmour",
+        "duration": "3:26"
+      },
+      {
+        "title": "The Narrow Way, Part 2",
+        "writer": "David Gilmour",
+        "duration": "2:52"
+      },
+      {
+        "title": "The Narrow Way, Part 3",
+        "writer": "David Gilmour",
+        "duration": "5:56"
+      },
+      {
+        "title": "The Grand Vizier's Garden Party (Part 1: Entrance)",
+        "writer": "Nick Mason",
+        "duration": "1:40"
+      },
+      {
+        "title": "The Grand Vizier's Garden Party (Part 2: Entertainment)",
+        "writer": "Nick Mason",
+        "duration": "7:06"
+      },
+      {
+        "title": "The Grand Vizier's Garden Party (Part 3: Exit)",
+        "writer": "Nick Mason",
+        "duration": "1:48"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "artist": "Pink Floyd",
+    "title": "Atom Heart Mother",
+    "albumType": "studio",
+    "year": 1970,
+    "releaseDate": "2 octobre 1970",
+    "label": "Harvest",
+    "labelUS": "Harvest",
+    "studios": [
+      "Abbey Road Studios (Londres)"
+    ],
+    "producer": "Pink Floyd, Ron Geesin",
+    "genre": [
+      "Rock progressif",
+      "Art rock",
+      "Expérimental"
+    ],
+    "members": [
+      {
+        "name": "David Gilmour",
+        "instruments": [
+          "Guitare",
+          "Chant",
+          "Basse",
+          "Claviers"
+        ]
+      },
+      {
+        "name": "Roger Waters",
+        "instruments": [
+          "Basse",
+          "Chant",
+          "Guitare"
+        ]
+      },
+      {
+        "name": "Richard Wright",
+        "instruments": [
+          "Claviers",
+          "Chant",
+          "Piano",
+          "Orgue",
+          "Synthétiseur"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [
+      {
+        "name": "Ron Geesin",
+        "role": "Arrangements orchestraux sur 'Atom Heart Mother'"
+      },
+      {
+        "name": "John Aldiss Choir",
+        "role": "Chœurs sur 'Atom Heart Mother'"
+      },
+      {
+        "name": "Philip Jones Brass Ensemble",
+        "role": "Cuivres sur 'Atom Heart Mother'"
+      }
+    ],
+    "notableSingles": [
+      "Atom Heart Mother"
+    ],
+    "cover": "./assets/pink_floyd_covers/atom",
+    "description": "Premier album à atteindre la 1re place des charts UK. La face A est occupée par la suite orchestrale 'Atom Heart Mother' de 23 minutes, co-composée avec Ron Geesin. La pochette, une photo d'une vache dans un champ sans nom du groupe, fut choisie délibérément contre l'image psychédélique du groupe.",
+    "tracklist": [
+      {
+        "title": "Atom Heart Mother",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason, Ron Geesin",
+        "duration": "23:44"
+      },
+      {
+        "title": "If",
+        "writer": "Roger Waters",
+        "duration": "4:31"
+      },
+      {
+        "title": "Summer '68",
+        "writer": "Richard Wright",
+        "duration": "5:29"
+      },
+      {
+        "title": "Fat Old Sun",
+        "writer": "David Gilmour",
+        "duration": "5:22"
+      },
+      {
+        "title": "Alan's Psychedelic Breakfast",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "13:00"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "artist": "Pink Floyd",
+    "title": "Meddle",
+    "albumType": "studio",
+    "year": 1971,
+    "releaseDate": "5 novembre 1971",
+    "label": "Harvest",
+    "labelUS": "Harvest",
+    "studios": [
+      "AIR Studios (Londres)",
+      "Abbey Road Studios (Londres)",
+      "Morgan Studios (Londres)"
+    ],
+    "producer": "Pink Floyd",
+    "genre": [
+      "Rock progressif",
+      "Psychédélique",
+      "Art rock"
+    ],
+    "members": [
+      {
+        "name": "David Gilmour",
+        "instruments": [
+          "Guitare",
+          "Chant",
+          "Basse",
+          "Claviers"
+        ]
+      },
+      {
+        "name": "Roger Waters",
+        "instruments": [
+          "Basse",
+          "Chant",
+          "Guitare"
+        ]
+      },
+      {
+        "name": "Richard Wright",
+        "instruments": [
+          "Claviers",
+          "Chant",
+          "Piano",
+          "Orgue",
+          "Synthétiseur"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [],
+    "notableSingles": [
+      "One of These Days"
+    ],
+    "cover": "./assets/pink_floyd_covers/meddle",
+    "description": "L'album qui préfigure le son de The Dark Side of the Moon. La face B est entièrement occupée par 'Echoes', une épopée de 23 minutes qui constitue le premier chef-d'œuvre de la période post-Barrett. La pochette représente une oreille sous l'eau.",
+    "tracklist": [
+      {
+        "title": "One of These Days",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "5:57"
+      },
+      {
+        "title": "A Pillow of Winds",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "5:12"
+      },
+      {
+        "title": "Fearless",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "6:09"
+      },
+      {
+        "title": "San Tropez",
+        "writer": "Roger Waters",
+        "duration": "3:43"
+      },
+      {
+        "title": "Seamus",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "2:15"
+      },
+      {
+        "title": "Echoes",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "23:31"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "artist": "Pink Floyd",
+    "title": "Obscured by Clouds",
+    "albumType": "soundtrack",
+    "year": 1972,
+    "releaseDate": "2 juin 1972",
+    "label": "Harvest",
+    "labelUS": "Harvest",
+    "studios": [
+      "Château d'Hérouville (Hérouville, France)"
+    ],
+    "producer": "Pink Floyd",
+    "genre": [
+      "Rock progressif",
+      "Hard rock",
+      "Folk rock"
+    ],
+    "members": [
+      {
+        "name": "David Gilmour",
+        "instruments": [
+          "Guitare",
+          "Chant",
+          "Basse",
+          "Claviers"
+        ]
+      },
+      {
+        "name": "Roger Waters",
+        "instruments": [
+          "Basse",
+          "Chant",
+          "Guitare"
+        ]
+      },
+      {
+        "name": "Richard Wright",
+        "instruments": [
+          "Claviers",
+          "Chant",
+          "Piano",
+          "Orgue",
+          "Synthétiseur"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [],
+    "notableSingles": [
+      "Free Four",
+      "Childhood's End"
+    ],
+    "cover": "./assets/pink_floyd_covers/obscured",
+    "description": "Bande originale du film de Barbet Schroeder 'La Vallée', enregistrée au Château d'Hérouville en France. Album souvent négligé mais considéré comme une étape importante vers le son de The Dark Side of the Moon. Roger Waters signe la majorité des textes.",
+    "tracklist": [
+      {
+        "title": "Obscured by Clouds",
+        "writer": "David Gilmour, Roger Waters",
+        "duration": "3:05"
+      },
+      {
+        "title": "When You're In",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "2:32"
+      },
+      {
+        "title": "Burning Bridges",
+        "writer": "Richard Wright, Roger Waters",
+        "duration": "3:31"
+      },
+      {
+        "title": "The Gold It's in the...",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "3:07"
+      },
+      {
+        "title": "Wots... Uh the Deal",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "5:10"
+      },
+      {
+        "title": "Mudmen",
+        "writer": "Richard Wright, David Gilmour",
+        "duration": "4:19"
+      },
+      {
+        "title": "Childhood's End",
+        "writer": "David Gilmour",
+        "duration": "4:34"
+      },
+      {
+        "title": "Free Four",
+        "writer": "Roger Waters",
+        "duration": "4:15"
+      },
+      {
+        "title": "Stay",
+        "writer": "Roger Waters, Richard Wright",
+        "duration": "4:05"
+      },
+      {
+        "title": "Absolutely Curtains",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "5:50"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "artist": "Pink Floyd",
+    "title": "The Dark Side of the Moon",
+    "albumType": "studio",
+    "year": 1973,
+    "releaseDate": "1er mars 1973",
+    "label": "Harvest",
+    "labelUS": "Capitol",
+    "studios": [
+      "Abbey Road Studios (Londres)"
+    ],
+    "producer": "Pink Floyd",
+    "genre": [
+      "Rock progressif",
+      "Art rock",
+      "Psychédélique"
+    ],
+    "members": [
+      {
+        "name": "David Gilmour",
+        "instruments": [
+          "Guitare",
+          "Chant",
+          "Basse",
+          "Claviers"
+        ]
+      },
+      {
+        "name": "Roger Waters",
+        "instruments": [
+          "Basse",
+          "Chant",
+          "Guitare"
+        ]
+      },
+      {
+        "name": "Richard Wright",
+        "instruments": [
+          "Claviers",
+          "Chant",
+          "Piano",
+          "Orgue",
+          "Synthétiseur"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [
+      {
+        "name": "Clare Torry",
+        "role": "Chant sur 'The Great Gig in the Sky'"
+      },
+      {
+        "name": "Dick Parry",
+        "role": "Saxophone sur 'Money' et 'Us and Them'"
+      },
+      {
+        "name": "Doris Troy",
+        "role": "Chœurs"
+      },
+      {
+        "name": "Lesley Duncan",
+        "role": "Chœurs"
+      },
+      {
+        "name": "Liza Strike",
+        "role": "Chœurs"
+      },
+      {
+        "name": "Barry St. John",
+        "role": "Chœurs"
+      }
+    ],
+    "notableSingles": [
+      "Money",
+      "Time",
+      "Us and Them",
+      "Any Colour You Like"
+    ],
+    "cover": "./assets/pink_floyd_covers/dark_side",
+    "description": "L'un des albums les plus vendus de tous les temps avec plus de 30 millions de copies. A passé 14 ans consécutifs dans le Billboard 200 — un record. Concept album explorant les thèmes de la folie, du temps, de la cupidité et de la mort. La pochette au prisme de lumière est devenue une icône mondiale.",
+    "tracklist": [
+      {
+        "title": "Speak to Me",
+        "writer": "Nick Mason",
+        "duration": "1:30"
+      },
+      {
+        "title": "Breathe",
+        "writer": "Roger Waters, David Gilmour, Richard Wright",
+        "duration": "2:49"
+      },
+      {
+        "title": "On the Run",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "3:36"
+      },
+      {
+        "title": "Time",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "7:06"
+      },
+      {
+        "title": "The Great Gig in the Sky",
+        "writer": "Richard Wright",
+        "duration": "4:47"
+      },
+      {
+        "title": "Money",
+        "writer": "Roger Waters",
+        "duration": "6:22"
+      },
+      {
+        "title": "Us and Them",
+        "writer": "Roger Waters, Richard Wright",
+        "duration": "7:51"
+      },
+      {
+        "title": "Any Colour You Like",
+        "writer": "David Gilmour, Richard Wright, Nick Mason",
+        "duration": "3:26"
+      },
+      {
+        "title": "Brain Damage",
+        "writer": "Roger Waters",
+        "duration": "3:47"
+      },
+      {
+        "title": "Eclipse",
+        "writer": "Roger Waters",
+        "duration": "2:03"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "artist": "Pink Floyd",
+    "title": "Wish You Were Here",
+    "albumType": "studio",
+    "year": 1975,
+    "releaseDate": "12 septembre 1975",
+    "label": "Harvest",
+    "labelUS": "Columbia",
+    "studios": [
+      "Abbey Road Studios (Londres)"
+    ],
+    "producer": "Pink Floyd",
+    "genre": [
+      "Rock progressif",
+      "Art rock"
+    ],
+    "members": [
+      {
+        "name": "David Gilmour",
+        "instruments": [
+          "Guitare",
+          "Chant",
+          "Basse",
+          "Claviers"
+        ]
+      },
+      {
+        "name": "Roger Waters",
+        "instruments": [
+          "Basse",
+          "Chant",
+          "Guitare"
+        ]
+      },
+      {
+        "name": "Richard Wright",
+        "instruments": [
+          "Claviers",
+          "Chant",
+          "Piano",
+          "Orgue",
+          "Synthétiseur"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [
+      {
+        "name": "Dick Parry",
+        "role": "Saxophone sur 'Shine On You Crazy Diamond (Parts VI-IX)'"
+      },
+      {
+        "name": "Venetta Fields",
+        "role": "Chœurs"
+      },
+      {
+        "name": "Carlena Williams",
+        "role": "Chœurs"
+      },
+      {
+        "name": "Roy Harper",
+        "role": "Chant sur 'Have a Cigar'"
+      }
+    ],
+    "notableSingles": [
+      "Wish You Were Here",
+      "Have a Cigar"
+    ],
+    "cover": "./assets/pink_floyd_covers/wish_you",
+    "description": "Hommage à Syd Barrett, qui rendit visite au groupe de manière inattendue pendant l'enregistrement, méconnaissable après des années de maladie mentale. La suite 'Shine On You Crazy Diamond' encadre l'album. Roger Waters signe la totalité des textes.",
+    "tracklist": [
+      {
+        "title": "Shine On You Crazy Diamond (Parts I–V)",
+        "writer": "Roger Waters, David Gilmour, Richard Wright",
+        "duration": "13:32"
+      },
+      {
+        "title": "Welcome to the Machine",
+        "writer": "Roger Waters",
+        "duration": "7:31"
+      },
+      {
+        "title": "Have a Cigar",
+        "writer": "Roger Waters",
+        "duration": "5:24"
+      },
+      {
+        "title": "Wish You Were Here",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "5:40"
+      },
+      {
+        "title": "Shine On You Crazy Diamond (Parts VI–IX)",
+        "writer": "Roger Waters, David Gilmour, Richard Wright",
+        "duration": "12:30"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "artist": "Pink Floyd",
+    "title": "Animals",
+    "albumType": "studio",
+    "year": 1977,
+    "releaseDate": "21 janvier 1977",
+    "label": "Harvest",
+    "labelUS": "Columbia",
+    "studios": [
+      "Britannia Row Studios (Londres)"
+    ],
+    "producer": "Pink Floyd",
+    "genre": [
+      "Rock progressif",
+      "Art rock",
+      "Rock"
+    ],
+    "members": [
+      {
+        "name": "David Gilmour",
+        "instruments": [
+          "Guitare",
+          "Chant",
+          "Basse",
+          "Claviers"
+        ]
+      },
+      {
+        "name": "Roger Waters",
+        "instruments": [
+          "Basse",
+          "Chant",
+          "Guitare"
+        ]
+      },
+      {
+        "name": "Richard Wright",
+        "instruments": [
+          "Claviers",
+          "Chant",
+          "Piano",
+          "Orgue",
+          "Synthétiseur"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [],
+    "notableSingles": [
+      "Pigs on the Wing",
+      "Dogs"
+    ],
+    "cover": "./assets/pink_floyd_covers/animals",
+    "description": "Inspiré de 'La Ferme des animaux' d'Orwell, cet album politique et cynique critique la société britannique des années 70. Premier enregistrement dans leur propre studio, Britannia Row. Connu pour la photo du cochon gonflable flottant sur la centrale électrique de Battersea.",
+    "tracklist": [
+      {
+        "title": "Pigs on the Wing 1",
+        "writer": "Roger Waters",
+        "duration": "1:25"
+      },
+      {
+        "title": "Dogs",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "17:04"
+      },
+      {
+        "title": "Pigs (Three Different Ones)",
+        "writer": "Roger Waters",
+        "duration": "11:26"
+      },
+      {
+        "title": "Sheep",
+        "writer": "Roger Waters",
+        "duration": "10:20"
+      },
+      {
+        "title": "Pigs on the Wing 2",
+        "writer": "Roger Waters",
+        "duration": "1:26"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "artist": "Pink Floyd",
+    "title": "The Wall",
+    "albumType": "studio",
+    "year": 1979,
+    "releaseDate": "30 novembre 1979",
+    "label": "Harvest",
+    "labelUS": "Columbia",
+    "studios": [
+      "Britannia Row Studios (Londres)",
+      "Super Bear Studios (Berre-les-Alpes, France)",
+      "CBS Studios (New York)",
+      "Producers Workshop (Los Angeles)"
+    ],
+    "producer": "Roger Waters, David Gilmour, Bob Ezrin",
+    "genre": [
+      "Rock progressif",
+      "Art rock",
+      "Rock opéra",
+      "New wave"
+    ],
+    "members": [
+      {
+        "name": "David Gilmour",
+        "instruments": [
+          "Guitare",
+          "Chant",
+          "Basse",
+          "Claviers"
+        ]
+      },
+      {
+        "name": "Roger Waters",
+        "instruments": [
+          "Basse",
+          "Chant",
+          "Guitare"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [
+      {
+        "name": "Bob Ezrin",
+        "role": "Claviers, arrangements, co-producteur"
+      },
+      {
+        "name": "Michael Kamen",
+        "role": "Arrangements orchestraux, piano"
+      },
+      {
+        "name": "New York Philharmonic Orchestra",
+        "role": "Orchestre sur plusieurs titres"
+      },
+      {
+        "name": "New York City Boy's Choir",
+        "role": "Chœurs sur 'Another Brick in the Wall Part 2'"
+      },
+      {
+        "name": "Jeff Porcaro",
+        "role": "Batterie sur 'Nobody Home'"
+      },
+      {
+        "name": "Toni Tennille",
+        "role": "Chœurs"
+      },
+      {
+        "name": "Joe Di Maggio",
+        "role": "Chœurs"
+      }
+    ],
+    "notableSingles": [
+      "Another Brick in the Wall (Part 2)",
+      "Run Like Hell",
+      "Comfortably Numb"
+    ],
+    "cover": "./assets/pink_floyd_covers/wall",
+    "description": "Double album concept narrant l'histoire de Pink, un rockstar s'isolant derrière un mur émotionnel. L'un des albums les plus certifiés de l'histoire (23× Platine aux USA). Richard Wright fut renvoyé pendant l'enregistrement mais participa à la tournée en tant que musicien salarié.",
+    "tracklist": [
+      {
+        "title": "In the Flesh?",
+        "writer": "Roger Waters",
+        "duration": "3:20"
+      },
+      {
+        "title": "The Thin Ice",
+        "writer": "Roger Waters",
+        "duration": "2:27"
+      },
+      {
+        "title": "Another Brick in the Wall, Part 1",
+        "writer": "Roger Waters",
+        "duration": "3:21"
+      },
+      {
+        "title": "The Happiest Days of Our Lives",
+        "writer": "Roger Waters",
+        "duration": "1:46"
+      },
+      {
+        "title": "Another Brick in the Wall, Part 2",
+        "writer": "Roger Waters",
+        "duration": "3:59"
+      },
+      {
+        "title": "Mother",
+        "writer": "Roger Waters",
+        "duration": "5:32"
+      },
+      {
+        "title": "Goodbye Blue Sky",
+        "writer": "Roger Waters",
+        "duration": "2:45"
+      },
+      {
+        "title": "Empty Spaces",
+        "writer": "Roger Waters",
+        "duration": "2:10"
+      },
+      {
+        "title": "Young Lust",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "3:31"
+      },
+      {
+        "title": "One of My Turns",
+        "writer": "Roger Waters",
+        "duration": "3:41"
+      },
+      {
+        "title": "Don't Leave Me Now",
+        "writer": "Roger Waters",
+        "duration": "4:17"
+      },
+      {
+        "title": "Another Brick in the Wall, Part 3",
+        "writer": "Roger Waters",
+        "duration": "1:18"
+      },
+      {
+        "title": "Goodbye Cruel World",
+        "writer": "Roger Waters",
+        "duration": "0:52"
+      },
+      {
+        "title": "Hey You",
+        "writer": "Roger Waters",
+        "duration": "4:40"
+      },
+      {
+        "title": "Is There Anybody Out There?",
+        "writer": "Roger Waters",
+        "duration": "2:44"
+      },
+      {
+        "title": "Nobody Home",
+        "writer": "Roger Waters",
+        "duration": "3:26"
+      },
+      {
+        "title": "Vera",
+        "writer": "Roger Waters",
+        "duration": "1:35"
+      },
+      {
+        "title": "Bring the Boys Back Home",
+        "writer": "Roger Waters",
+        "duration": "1:21"
+      },
+      {
+        "title": "Comfortably Numb",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "6:52"
+      },
+      {
+        "title": "The Show Must Go On",
+        "writer": "Roger Waters",
+        "duration": "1:36"
+      },
+      {
+        "title": "In the Flesh",
+        "writer": "Roger Waters",
+        "duration": "4:15"
+      },
+      {
+        "title": "Run Like Hell",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "4:20"
+      },
+      {
+        "title": "Waiting for the Worms",
+        "writer": "Roger Waters",
+        "duration": "4:04"
+      },
+      {
+        "title": "Stop",
+        "writer": "Roger Waters",
+        "duration": "0:30"
+      },
+      {
+        "title": "The Trial",
+        "writer": "Roger Waters, Bob Ezrin",
+        "duration": "5:13"
+      },
+      {
+        "title": "Outside the Wall",
+        "writer": "Roger Waters",
+        "duration": "1:41"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "artist": "Pink Floyd",
+    "title": "The Final Cut",
+    "albumType": "studio",
+    "year": 1983,
+    "releaseDate": "21 mars 1983",
+    "label": "Harvest",
+    "labelUS": "Columbia",
+    "studios": [
+      "Britannia Row Studios (Londres)",
+      "Olympic Studios (Londres)",
+      "Abbey Road Studios (Londres)",
+      "RAK Studios (Londres)",
+      "audio International (Londres)"
+    ],
+    "producer": "Roger Waters, Michael Kamen, James Guthrie",
+    "genre": [
+      "Rock progressif",
+      "Art rock"
+    ],
+    "members": [
+      {
+        "name": "David Gilmour",
+        "instruments": [
+          "Guitare",
+          "Chant",
+          "Basse",
+          "Claviers"
+        ]
+      },
+      {
+        "name": "Roger Waters",
+        "instruments": [
+          "Basse",
+          "Chant",
+          "Guitare"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [
+      {
+        "name": "Michael Kamen",
+        "role": "Orchestre, arrangements"
+      },
+      {
+        "name": "Andy Bown",
+        "role": "Orgue Hammond"
+      },
+      {
+        "name": "National Philharmonic Orchestra",
+        "role": "Orchestre"
+      },
+      {
+        "name": "Ray Cooper",
+        "role": "Percussions"
+      }
+    ],
+    "notableSingles": [
+      "Not Now John",
+      "The Final Cut",
+      "The Fletcher Memorial Home"
+    ],
+    "cover": "./assets/pink_floyd_covers/final_cut",
+    "description": "Surnommé 'le dernier album de Roger Waters avec Pink Floyd', The Final Cut est un requiem pour les victimes de la Seconde Guerre mondiale, inspiré par la guerre des Malouines. Waters est l'unique compositeur. David Gilmour et Nick Mason exprimèrent publiquement leur insatisfaction.",
+    "tracklist": [
+      {
+        "title": "The Post War Dream",
+        "writer": "Roger Waters",
+        "duration": "3:01"
+      },
+      {
+        "title": "Your Possible Pasts",
+        "writer": "Roger Waters",
+        "duration": "4:26"
+      },
+      {
+        "title": "One of the Few",
+        "writer": "Roger Waters",
+        "duration": "1:49"
+      },
+      {
+        "title": "When the Tigers Broke Free",
+        "writer": "Roger Waters",
+        "duration": "3:16"
+      },
+      {
+        "title": "The Hero's Return",
+        "writer": "Roger Waters",
+        "duration": "2:40"
+      },
+      {
+        "title": "The Gunner's Dream",
+        "writer": "Roger Waters",
+        "duration": "5:11"
+      },
+      {
+        "title": "Paranoid Eyes",
+        "writer": "Roger Waters",
+        "duration": "3:41"
+      },
+      {
+        "title": "Get Your Filthy Hands Off My Desert",
+        "writer": "Roger Waters",
+        "duration": "1:17"
+      },
+      {
+        "title": "The Fletcher Memorial Home",
+        "writer": "Roger Waters",
+        "duration": "4:12"
+      },
+      {
+        "title": "Southampton Dock",
+        "writer": "Roger Waters",
+        "duration": "2:10"
+      },
+      {
+        "title": "The Final Cut",
+        "writer": "Roger Waters",
+        "duration": "4:43"
+      },
+      {
+        "title": "Not Now John",
+        "writer": "Roger Waters",
+        "duration": "4:56"
+      },
+      {
+        "title": "Two Suns in the Sunset",
+        "writer": "Roger Waters",
+        "duration": "5:20"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "artist": "Pink Floyd",
+    "title": "A Momentary Lapse of Reason",
+    "albumType": "studio",
+    "year": 1987,
+    "releaseDate": "7 septembre 1987",
+    "label": "EMI",
+    "labelUS": "Columbia",
+    "studios": [
+      "Astoria (bateau-studio, Tamise, Londres)",
+      "Abbey Road Studios (Londres)",
+      "Village Recorders (Los Angeles)",
+      "A&M Studios (Los Angeles)"
+    ],
+    "producer": "David Gilmour, Bob Ezrin",
+    "genre": [
+      "Rock progressif",
+      "Art rock",
+      "Rock"
+    ],
+    "members": [
+      {
+        "name": "David Gilmour",
+        "instruments": [
+          "Guitare",
+          "Chant",
+          "Basse",
+          "Claviers"
+        ]
+      },
+      {
+        "name": "Richard Wright",
+        "instruments": [
+          "Claviers",
+          "Chant",
+          "Piano",
+          "Orgue",
+          "Synthétiseur"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [
+      {
+        "name": "Bob Ezrin",
+        "role": "Claviers, co-producteur"
+      },
+      {
+        "name": "Jon Carin",
+        "role": "Claviers, programmation"
+      },
+      {
+        "name": "Tony Levin",
+        "role": "Basse"
+      },
+      {
+        "name": "Carmine Appice",
+        "role": "Batterie sur plusieurs titres"
+      },
+      {
+        "name": "Bill Bruford",
+        "role": "Batterie sur plusieurs titres"
+      },
+      {
+        "name": "Jim Keltner",
+        "role": "Batterie sur plusieurs titres"
+      },
+      {
+        "name": "Tom Scott",
+        "role": "Saxophone"
+      }
+    ],
+    "notableSingles": [
+      "Learning to Fly",
+      "On the Turning Away",
+      "One Slip"
+    ],
+    "cover": "./assets/pink_floyd_covers/momentary_lapse",
+    "description": "Premier album sans Roger Waters, qui tenta juridiquement d'empêcher le groupe de continuer sous le nom Pink Floyd. Enregistré en partie sur l'Astoria, le bateau-studio de Gilmour sur la Tamise. Richard Wright participe en tant que musicien salarié.",
+    "tracklist": [
+      {
+        "title": "Signs of Life",
+        "writer": "David Gilmour, Bob Ezrin",
+        "duration": "4:24"
+      },
+      {
+        "title": "Learning to Fly",
+        "writer": "David Gilmour, Anthony Moore, Bob Ezrin, Jon Carin",
+        "duration": "4:51"
+      },
+      {
+        "title": "The Dogs of War",
+        "writer": "David Gilmour, Anthony Moore",
+        "duration": "6:05"
+      },
+      {
+        "title": "One Slip",
+        "writer": "David Gilmour, Phil Manzanera",
+        "duration": "5:11"
+      },
+      {
+        "title": "On the Turning Away",
+        "writer": "David Gilmour, Anthony Moore",
+        "duration": "5:41"
+      },
+      {
+        "title": "Yet Another Movie",
+        "writer": "David Gilmour, Patrick Leonard",
+        "duration": "6:19"
+      },
+      {
+        "title": "Round and Around",
+        "writer": "David Gilmour, Patrick Leonard",
+        "duration": "1:53"
+      },
+      {
+        "title": "A New Machine, Part 1",
+        "writer": "David Gilmour",
+        "duration": "1:46"
+      },
+      {
+        "title": "Terminal Frost",
+        "writer": "David Gilmour",
+        "duration": "6:11"
+      },
+      {
+        "title": "A New Machine, Part 2",
+        "writer": "David Gilmour",
+        "duration": "0:39"
+      },
+      {
+        "title": "Sorrow",
+        "writer": "David Gilmour",
+        "duration": "8:45"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "artist": "Pink Floyd",
+    "title": "The Division Bell",
+    "albumType": "studio",
+    "year": 1994,
+    "releaseDate": "28 mars 1994",
+    "label": "EMI",
+    "labelUS": "Columbia",
+    "studios": [
+      "Astoria (bateau-studio, Tamise, Londres)",
+      "Abbey Road Studios (Londres)",
+      "Britannia Row Studios (Londres)"
+    ],
+    "producer": "David Gilmour, Bob Ezrin",
+    "genre": [
+      "Rock progressif",
+      "Art rock"
+    ],
+    "members": [
+      {
+        "name": "David Gilmour",
+        "instruments": [
+          "Guitare",
+          "Chant",
+          "Basse",
+          "Claviers"
+        ]
+      },
+      {
+        "name": "Richard Wright",
+        "instruments": [
+          "Claviers",
+          "Chant",
+          "Piano",
+          "Orgue",
+          "Synthétiseur"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [
+      {
+        "name": "Bob Ezrin",
+        "role": "Claviers, co-producteur"
+      },
+      {
+        "name": "Jon Carin",
+        "role": "Claviers, programmation"
+      },
+      {
+        "name": "Tim Renwick",
+        "role": "Guitare"
+      },
+      {
+        "name": "Guy Pratt",
+        "role": "Basse"
+      },
+      {
+        "name": "Gary Wallis",
+        "role": "Percussions"
+      },
+      {
+        "name": "Dick Parry",
+        "role": "Saxophone"
+      },
+      {
+        "name": "Anthony Moore",
+        "role": "Claviers, co-compositeur"
+      },
+      {
+        "name": "Sam Brown",
+        "role": "Chœurs"
+      },
+      {
+        "name": "Durga McBroom",
+        "role": "Chœurs"
+      },
+      {
+        "name": "Carol Kenyon",
+        "role": "Chœurs"
+      },
+      {
+        "name": "Jackie Sherwood",
+        "role": "Chœurs"
+      },
+      {
+        "name": "Claudia Fontaine",
+        "role": "Chœurs"
+      }
+    ],
+    "notableSingles": [
+      "Take It Back",
+      "High Hopes",
+      "Keep Talking"
+    ],
+    "cover": "./assets/pink_floyd_covers/thunder",
+    "description": "Dernier album studio avec Richard Wright comme membre officiel. Les paroles, coécrites avec Polly Samson (compagne de Gilmour), explorent thèmes de communication et de relation. 'Keep Talking' utilise un échantillon de la voix de Stephen Hawking.",
+    "tracklist": [
+      {
+        "title": "Cluster One",
+        "writer": "David Gilmour, Richard Wright",
+        "duration": "5:58"
+      },
+      {
+        "title": "What Do You Want from Me",
+        "writer": "David Gilmour, Polly Samson, Bob Ezrin",
+        "duration": "4:21"
+      },
+      {
+        "title": "Poles Apart",
+        "writer": "David Gilmour, Polly Samson, Nick Mason",
+        "duration": "7:03"
+      },
+      {
+        "title": "Marooned",
+        "writer": "David Gilmour, Nick Mason",
+        "duration": "5:29"
+      },
+      {
+        "title": "A Great Day for Freedom",
+        "writer": "David Gilmour, Polly Samson",
+        "duration": "4:18"
+      },
+      {
+        "title": "Wearing the Inside Out",
+        "writer": "Richard Wright, Anthony Moore",
+        "duration": "6:51"
+      },
+      {
+        "title": "Take It Back",
+        "writer": "David Gilmour, Polly Samson, Bob Ezrin, Jon Carin",
+        "duration": "5:28"
+      },
+      {
+        "title": "Coming Back to Life",
+        "writer": "David Gilmour",
+        "duration": "6:18"
+      },
+      {
+        "title": "Keep Talking",
+        "writer": "David Gilmour, Polly Samson",
+        "duration": "6:11"
+      },
+      {
+        "title": "Lost for Words",
+        "writer": "David Gilmour, Polly Samson",
+        "duration": "5:15"
+      },
+      {
+        "title": "High Hopes",
+        "writer": "David Gilmour, Polly Samson",
+        "duration": "8:32"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "artist": "Pink Floyd",
+    "title": "The Endless River",
+    "albumType": "studio",
+    "year": 2014,
+    "releaseDate": "7 novembre 2014",
+    "label": "Pink Floyd Records",
+    "labelUS": "Pink Floyd Records",
+    "studios": [
+      "Astoria (bateau-studio, Tamise, Londres)",
+      "Medina Studio (Brighton)"
+    ],
+    "producer": "David Gilmour, Phil Manzanera, Youth, Andy Jackson",
+    "genre": [
+      "Rock progressif",
+      "Art rock",
+      "Ambient",
+      "Post-rock"
+    ],
+    "members": [
+      {
+        "name": "David Gilmour",
+        "instruments": [
+          "Guitare",
+          "Chant",
+          "Basse",
+          "Claviers"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [
+      {
+        "name": "Richard Wright",
+        "role": "Claviers (enregistrements de 1993-1994, posthumes)"
+      },
+      {
+        "name": "Jon Carin",
+        "role": "Claviers, programmation"
+      },
+      {
+        "name": "Guy Pratt",
+        "role": "Basse"
+      },
+      {
+        "name": "Youth",
+        "role": "Co-producteur, basse sur 'Louder Than Words'"
+      },
+      {
+        "name": "Stephen Hawking",
+        "role": "Voix sur 'Talkin' Hawkin'"
+      }
+    ],
+    "notableSingles": [
+      "Louder Than Words"
+    ],
+    "cover": "./assets/pink_floyd_covers/division_bell",
+    "description": "Dernier album de Pink Floyd, construit principalement à partir d'enregistrements de Richard Wright lors des sessions de The Division Bell en 1993-94. Un hommage posthume à Wright, décédé en 2008. Album presque entièrement instrumental, à l'exception du titre final 'Louder Than Words'.",
+    "tracklist": [
+      {
+        "title": "Things Left Unsaid",
+        "writer": "David Gilmour, Nick Mason, Richard Wright",
+        "duration": "5:59"
+      },
+      {
+        "title": "It's What We Do",
+        "writer": "David Gilmour, Richard Wright, Nick Mason, Jon Carin",
+        "duration": "6:16"
+      },
+      {
+        "title": "Ebb and Flow",
+        "writer": "Richard Wright",
+        "duration": "1:52"
+      },
+      {
+        "title": "Sum",
+        "writer": "David Gilmour, Richard Wright, Nick Mason",
+        "duration": "3:20"
+      },
+      {
+        "title": "Skins",
+        "writer": "Nick Mason",
+        "duration": "1:43"
+      },
+      {
+        "title": "Unsung",
+        "writer": "David Gilmour, Richard Wright",
+        "duration": "1:04"
+      },
+      {
+        "title": "Anisina",
+        "writer": "David Gilmour",
+        "duration": "3:09"
+      },
+      {
+        "title": "The Lost Art of Conversation",
+        "writer": "Richard Wright",
+        "duration": "1:47"
+      },
+      {
+        "title": "On Noodle Street",
+        "writer": "Nick Mason, Richard Wright",
+        "duration": "1:57"
+      },
+      {
+        "title": "Night Light",
+        "writer": "Richard Wright, David Gilmour",
+        "duration": "1:44"
+      },
+      {
+        "title": "Allons-y (1)",
+        "writer": "David Gilmour",
+        "duration": "1:49"
+      },
+      {
+        "title": "Autumn '68",
+        "writer": "Richard Wright",
+        "duration": "1:39"
+      },
+      {
+        "title": "Allons-y (2)",
+        "writer": "David Gilmour",
+        "duration": "1:01"
+      },
+      {
+        "title": "Talkin' Hawkin'",
+        "writer": "David Gilmour, Nick Mason, Richard Wright, Jon Carin",
+        "duration": "2:58"
+      },
+      {
+        "title": "Calling",
+        "writer": "David Gilmour, Richard Wright, Nick Mason",
+        "duration": "3:38"
+      },
+      {
+        "title": "Eyes to Pearls",
+        "writer": "Richard Wright",
+        "duration": "1:51"
+      },
+      {
+        "title": "Surfacing",
+        "writer": "David Gilmour, Richard Wright",
+        "duration": "1:35"
+      },
+      {
+        "title": "Louder Than Words",
+        "writer": "David Gilmour, Polly Samson",
+        "duration": "6:33"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "artist": "Pink Floyd",
+    "title": "Relics",
+    "albumType": "compilation",
+    "year": 1971,
+    "releaseDate": "14 mai 1971",
+    "label": "Harvest",
+    "labelUS": "Capitol",
+    "studios": [],
+    "producer": "Various",
+    "genre": [
+      "Psychédélique",
+      "Rock progressif"
+    ],
+    "members": [
+      {
+        "name": "David Gilmour",
+        "instruments": [
+          "Guitare",
+          "Chant",
+          "Basse",
+          "Claviers"
+        ]
+      },
+      {
+        "name": "Roger Waters",
+        "instruments": [
+          "Basse",
+          "Chant",
+          "Guitare"
+        ]
+      },
+      {
+        "name": "Richard Wright",
+        "instruments": [
+          "Claviers",
+          "Chant",
+          "Piano",
+          "Orgue",
+          "Synthétiseur"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [],
+    "notableSingles": [],
+    "cover": "./assets/pink_floyd_covers/endless_river",
+    "description": "Première compilation officielle de Pink Floyd, couvrant la période Barrett et les débuts post-Barrett. Contient des singles non-album rares dont 'Arnold Layne' et 'See Emily Play'. La pochette, dessinée par Nick Mason, représente une machine steampunk.",
+    "tracklist": [
+      {
+        "title": "Arnold Layne",
+        "writer": "Syd Barrett",
+        "duration": "2:52"
+      },
+      {
+        "title": "Interstellar Overdrive",
+        "writer": "Syd Barrett, Roger Waters, Richard Wright, Nick Mason",
+        "duration": "9:41"
+      },
+      {
+        "title": "See Emily Play",
+        "writer": "Syd Barrett",
+        "duration": "2:53"
+      },
+      {
+        "title": "Remember a Day",
+        "writer": "Richard Wright",
+        "duration": "4:33"
+      },
+      {
+        "title": "Paintbox",
+        "writer": "Richard Wright",
+        "duration": "3:46"
+      },
+      {
+        "title": "Julia Dream",
+        "writer": "Roger Waters",
+        "duration": "2:32"
+      },
+      {
+        "title": "Careful with That Axe, Eugene",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "5:59"
+      },
+      {
+        "title": "Cirrus Minor",
+        "writer": "Roger Waters",
+        "duration": "5:18"
+      },
+      {
+        "title": "The Nile Song",
+        "writer": "Roger Waters",
+        "duration": "3:25"
+      },
+      {
+        "title": "Biding My Time",
+        "writer": "Roger Waters",
+        "duration": "5:20"
+      },
+      {
+        "title": "Bike",
+        "writer": "Syd Barrett",
+        "duration": "3:21"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "artist": "Pink Floyd",
+    "title": "A Collection of Great Dance Songs",
+    "albumType": "compilation",
+    "year": 1981,
+    "releaseDate": "23 novembre 1981",
+    "label": "Harvest",
+    "labelUS": "Columbia",
+    "studios": [],
+    "producer": "Various",
+    "genre": [
+      "Rock progressif"
+    ],
+    "members": [
+      {
+        "name": "David Gilmour",
+        "instruments": [
+          "Guitare",
+          "Chant",
+          "Basse",
+          "Claviers"
+        ]
+      },
+      {
+        "name": "Roger Waters",
+        "instruments": [
+          "Basse",
+          "Chant",
+          "Guitare"
+        ]
+      },
+      {
+        "name": "Richard Wright",
+        "instruments": [
+          "Claviers",
+          "Chant",
+          "Piano",
+          "Orgue",
+          "Synthétiseur"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [
+      {
+        "name": "Dick Parry",
+        "role": "Saxophone sur 'Money'"
+      }
+    ],
+    "notableSingles": [],
+    "cover": "./assets/pink_floyd_covers/collection",
+    "description": "Compilation officielle couvrant la période 1973-1979. Malgré son titre ironique — Pink Floyd n'était pas connu pour la danse — c'est une sélection des plus grands hits de la période classique. La version de 'Money' est une re-enregistrement car EMI ne possédait pas les droits de l'original.",
+    "tracklist": [
+      {
+        "title": "One of These Days",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "5:57"
+      },
+      {
+        "title": "Money",
+        "writer": "Roger Waters",
+        "duration": "6:30"
+      },
+      {
+        "title": "Sheep",
+        "writer": "Roger Waters",
+        "duration": "10:20"
+      },
+      {
+        "title": "Shine On You Crazy Diamond (Parts I–V)",
+        "writer": "Roger Waters, David Gilmour, Richard Wright",
+        "duration": "13:32"
+      },
+      {
+        "title": "Wish You Were Here",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "5:40"
+      },
+      {
+        "title": "Another Brick in the Wall, Part 2",
+        "writer": "Roger Waters",
+        "duration": "3:59"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "artist": "Pink Floyd",
+    "title": "Works",
+    "albumType": "compilation",
+    "year": 1983,
+    "releaseDate": "1er juin 1983",
+    "label": "Capitol",
+    "labelUS": "Capitol",
+    "studios": [],
+    "producer": "Various",
+    "genre": [
+      "Rock progressif",
+      "Psychédélique"
+    ],
+    "members": [
+      {
+        "name": "David Gilmour",
+        "instruments": [
+          "Guitare",
+          "Chant",
+          "Basse",
+          "Claviers"
+        ]
+      },
+      {
+        "name": "Roger Waters",
+        "instruments": [
+          "Basse",
+          "Chant",
+          "Guitare"
+        ]
+      },
+      {
+        "name": "Richard Wright",
+        "instruments": [
+          "Claviers",
+          "Chant",
+          "Piano",
+          "Orgue",
+          "Synthétiseur"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [],
+    "notableSingles": [],
+    "cover": "./assets/pink_floyd_covers/works",
+    "description": "Compilation publiée exclusivement aux États-Unis et au Canada par Capitol Records. Couvre la période 1968-1975, des débuts post-Barrett à Wish You Were Here. Contient des raretés comme 'Embryo'.",
+    "tracklist": [
+      {
+        "title": "One of These Days",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "5:57"
+      },
+      {
+        "title": "Arnold Layne",
+        "writer": "Syd Barrett",
+        "duration": "2:52"
+      },
+      {
+        "title": "Fearless",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "6:09"
+      },
+      {
+        "title": "San Tropez",
+        "writer": "Roger Waters",
+        "duration": "3:43"
+      },
+      {
+        "title": "Stay",
+        "writer": "Roger Waters, Richard Wright",
+        "duration": "4:05"
+      },
+      {
+        "title": "Embryo",
+        "writer": "Roger Waters",
+        "duration": "4:35"
+      },
+      {
+        "title": "Wots... Uh the Deal",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "5:10"
+      },
+      {
+        "title": "Brain Damage",
+        "writer": "Roger Waters",
+        "duration": "3:47"
+      },
+      {
+        "title": "Shine On You Crazy Diamond (Parts I–V)",
+        "writer": "Roger Waters, David Gilmour, Richard Wright",
+        "duration": "13:32"
+      },
+      {
+        "title": "Wish You Were Here",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "5:40"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "artist": "Pink Floyd",
+    "title": "Echoes: The Best of Pink Floyd",
+    "albumType": "compilation",
+    "year": 2001,
+    "releaseDate": "1er novembre 2001",
+    "label": "EMI",
+    "labelUS": "Capitol",
+    "studios": [],
+    "producer": "Various",
+    "genre": [
+      "Rock progressif"
+    ],
+    "members": [
+      {
+        "name": "David Gilmour",
+        "instruments": [
+          "Guitare",
+          "Chant",
+          "Basse",
+          "Claviers"
+        ]
+      },
+      {
+        "name": "Roger Waters",
+        "instruments": [
+          "Basse",
+          "Chant",
+          "Guitare"
+        ]
+      },
+      {
+        "name": "Richard Wright",
+        "instruments": [
+          "Claviers",
+          "Chant",
+          "Piano",
+          "Orgue",
+          "Synthétiseur"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [
+      {
+        "name": "Clare Torry",
+        "role": "Chant sur 'The Great Gig in the Sky'"
+      },
+      {
+        "name": "Dick Parry",
+        "role": "Saxophone sur 'Money'"
+      },
+      {
+        "name": "Roy Harper",
+        "role": "Chant sur 'Have a Cigar'"
+      }
+    ],
+    "notableSingles": [],
+    "cover": "./assets/pink_floyd_covers/echoes",
+    "description": "Double album de 26 titres couvrant l'intégralité de la carrière de Pink Floyd de 1967 à 1994. La pochette combine plusieurs images des pochettes Hipgnosis précédentes. L'une des compilations les mieux construites de leur catalogue.",
+    "tracklist": [
+      {
+        "title": "Astronomy Domine",
+        "writer": "Syd Barrett",
+        "duration": "4:12"
+      },
+      {
+        "title": "Candy and a Currant Bun",
+        "writer": "Syd Barrett",
+        "duration": "2:46"
+      },
+      {
+        "title": "The Gnome",
+        "writer": "Syd Barrett",
+        "duration": "2:13"
+      },
+      {
+        "title": "Chapter 24",
+        "writer": "Syd Barrett",
+        "duration": "3:42"
+      },
+      {
+        "title": "Jugband Blues",
+        "writer": "Syd Barrett",
+        "duration": "3:01"
+      },
+      {
+        "title": "The Nile Song",
+        "writer": "Roger Waters",
+        "duration": "3:25"
+      },
+      {
+        "title": "Green Is the Colour",
+        "writer": "Roger Waters",
+        "duration": "2:59"
+      },
+      {
+        "title": "Careful with That Axe, Eugene",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "5:59"
+      },
+      {
+        "title": "Fat Old Sun",
+        "writer": "David Gilmour",
+        "duration": "5:22"
+      },
+      {
+        "title": "Alan's Psychedelic Breakfast",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "13:00"
+      },
+      {
+        "title": "One of These Days",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "5:57"
+      },
+      {
+        "title": "Fearless",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "6:09"
+      },
+      {
+        "title": "Echoes",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "23:31"
+      },
+      {
+        "title": "When You're In",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "2:32"
+      },
+      {
+        "title": "Breathe",
+        "writer": "Roger Waters, David Gilmour, Richard Wright",
+        "duration": "2:49"
+      },
+      {
+        "title": "Time",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "7:06"
+      },
+      {
+        "title": "The Great Gig in the Sky",
+        "writer": "Richard Wright",
+        "duration": "4:47"
+      },
+      {
+        "title": "Money",
+        "writer": "Roger Waters",
+        "duration": "6:22"
+      },
+      {
+        "title": "Us and Them",
+        "writer": "Roger Waters, Richard Wright",
+        "duration": "7:51"
+      },
+      {
+        "title": "Brain Damage",
+        "writer": "Roger Waters",
+        "duration": "3:47"
+      },
+      {
+        "title": "Shine On You Crazy Diamond (Parts I–V)",
+        "writer": "Roger Waters, David Gilmour, Richard Wright",
+        "duration": "13:32"
+      },
+      {
+        "title": "Wish You Were Here",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "5:40"
+      },
+      {
+        "title": "Have a Cigar",
+        "writer": "Roger Waters",
+        "duration": "5:24"
+      },
+      {
+        "title": "Dogs",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "17:04"
+      },
+      {
+        "title": "Comfortably Numb",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "6:52"
+      },
+      {
+        "title": "Hey You",
+        "writer": "Roger Waters",
+        "duration": "4:40"
+      },
+      {
+        "title": "High Hopes",
+        "writer": "David Gilmour, Polly Samson",
+        "duration": "8:32"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "artist": "Pink Floyd",
+    "title": "A Foot in the Door: The Best of Pink Floyd",
+    "albumType": "compilation",
+    "year": 2011,
+    "releaseDate": "17 octobre 2011",
+    "label": "EMI",
+    "labelUS": "Capitol",
+    "studios": [],
+    "producer": "Various",
+    "genre": [
+      "Rock progressif"
+    ],
+    "members": [
+      {
+        "name": "David Gilmour",
+        "instruments": [
+          "Guitare",
+          "Chant",
+          "Basse",
+          "Claviers"
+        ]
+      },
+      {
+        "name": "Roger Waters",
+        "instruments": [
+          "Basse",
+          "Chant",
+          "Guitare"
+        ]
+      },
+      {
+        "name": "Richard Wright",
+        "instruments": [
+          "Claviers",
+          "Chant",
+          "Piano",
+          "Orgue",
+          "Synthétiseur"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [
+      {
+        "name": "Clare Torry",
+        "role": "Chant sur 'The Great Gig in the Sky'"
+      },
+      {
+        "name": "Dick Parry",
+        "role": "Saxophone sur 'Money'"
+      },
+      {
+        "name": "Roy Harper",
+        "role": "Chant sur 'Have a Cigar'"
+      }
+    ],
+    "notableSingles": [],
+    "cover": "./assets/pink_floyd_covers/foot_in_the_door",
+    "description": "Compilation d'un seul CD de 16 titres, conçue comme introduction à la discographie de Pink Floyd. Publiée pour accompagner la sortie du catalogue remasterisé. Couvre la période 1967-1994 avec une sélection des titres les plus accessibles.",
+    "tracklist": [
+      {
+        "title": "See Emily Play",
+        "writer": "Syd Barrett",
+        "duration": "2:53"
+      },
+      {
+        "title": "The Happiest Days of Our Lives",
+        "writer": "Roger Waters",
+        "duration": "1:46"
+      },
+      {
+        "title": "Another Brick in the Wall, Part 2",
+        "writer": "Roger Waters",
+        "duration": "3:59"
+      },
+      {
+        "title": "Echoes",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "23:31"
+      },
+      {
+        "title": "Hey You",
+        "writer": "Roger Waters",
+        "duration": "4:40"
+      },
+      {
+        "title": "Marooned",
+        "writer": "David Gilmour, Nick Mason",
+        "duration": "5:29"
+      },
+      {
+        "title": "The Great Gig in the Sky",
+        "writer": "Richard Wright",
+        "duration": "4:47"
+      },
+      {
+        "title": "Wish You Were Here",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "5:40"
+      },
+      {
+        "title": "Have a Cigar",
+        "writer": "Roger Waters",
+        "duration": "5:24"
+      },
+      {
+        "title": "Shine On You Crazy Diamond (Parts I–V)",
+        "writer": "Roger Waters, David Gilmour, Richard Wright",
+        "duration": "13:32"
+      },
+      {
+        "title": "Comfortably Numb",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "6:52"
+      },
+      {
+        "title": "Learning to Fly",
+        "writer": "David Gilmour, Anthony Moore, Bob Ezrin, Jon Carin",
+        "duration": "4:51"
+      },
+      {
+        "title": "High Hopes",
+        "writer": "David Gilmour, Polly Samson",
+        "duration": "8:32"
+      },
+      {
+        "title": "Money",
+        "writer": "Roger Waters",
+        "duration": "6:22"
+      },
+      {
+        "title": "Brain Damage",
+        "writer": "Roger Waters",
+        "duration": "3:47"
+      },
+      {
+        "title": "Time",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "7:06"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "artist": "Pink Floyd",
+    "title": "Live at Pompeii",
+    "albumType": "live",
+    "year": 1972,
+    "releaseDate": "1er octobre 1972",
+    "label": "Harvest",
+    "labelUS": "Harvest",
+    "studios": [],
+    "venue": "Amphithéâtre de Pompéi, Italie",
+    "concertDate": "4–6 octobre 1971",
+    "producer": "Pink Floyd",
+    "genre": [
+      "Rock progressif",
+      "Psychédélique"
+    ],
+    "members": [
+      {
+        "name": "David Gilmour",
+        "instruments": [
+          "Guitare",
+          "Chant",
+          "Basse",
+          "Claviers"
+        ]
+      },
+      {
+        "name": "Roger Waters",
+        "instruments": [
+          "Basse",
+          "Chant",
+          "Guitare"
+        ]
+      },
+      {
+        "name": "Richard Wright",
+        "instruments": [
+          "Claviers",
+          "Chant",
+          "Piano",
+          "Orgue",
+          "Synthétiseur"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [],
+    "notableSingles": [],
+    "cover": "./assets/pink_floyd_covers/pompeii",
+    "description": "Concert filmé sans public dans l'amphithéâtre antique de Pompéi. Film culte réalisé par Adrian Maben, sorti en album uniquement en 1972. Les performances sont entrecoupées de séquences en studio lors de l'enregistrement de The Dark Side of the Moon.",
+    "tracklist": [
+      {
+        "title": "Echoes, Part 1 (live)",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "18:57"
+      },
+      {
+        "title": "Careful with That Axe, Eugene (live)",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "8:44"
+      },
+      {
+        "title": "A Saucerful of Secrets (live)",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason, Syd Barrett",
+        "duration": "12:22"
+      },
+      {
+        "title": "One of These Days (live)",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "7:53"
+      },
+      {
+        "title": "Set the Controls for the Heart of the Sun (live)",
+        "writer": "Roger Waters",
+        "duration": "9:06"
+      },
+      {
+        "title": "Mademoiselle Nobs (live)",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "6:15"
+      },
+      {
+        "title": "Echoes, Part 2 (live)",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "13:34"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "artist": "Pink Floyd",
+    "title": "Delicate Sound of Thunder",
+    "albumType": "live",
+    "year": 1988,
+    "releaseDate": "22 novembre 1988",
+    "label": "EMI",
+    "labelUS": "Columbia",
+    "studios": [],
+    "venue": "Nassau Coliseum (Uniondale, New York) / Nassau Veterans Memorial Coliseum",
+    "concertDate": "19–20 août 1988",
+    "producer": "David Gilmour, Nick Mason, Bob Ezrin",
+    "genre": [
+      "Rock progressif"
+    ],
+    "members": [
+      {
+        "name": "David Gilmour",
+        "instruments": [
+          "Guitare",
+          "Chant",
+          "Basse",
+          "Claviers"
+        ]
+      },
+      {
+        "name": "Richard Wright",
+        "instruments": [
+          "Claviers",
+          "Chant",
+          "Piano",
+          "Orgue",
+          "Synthétiseur"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [
+      {
+        "name": "Jon Carin",
+        "role": "Claviers, chant"
+      },
+      {
+        "name": "Tim Renwick",
+        "role": "Guitare"
+      },
+      {
+        "name": "Guy Pratt",
+        "role": "Basse, chant"
+      },
+      {
+        "name": "Gary Wallis",
+        "role": "Percussions"
+      },
+      {
+        "name": "Scott Page",
+        "role": "Saxophone"
+      },
+      {
+        "name": "Rachel Fury",
+        "role": "Chœurs"
+      },
+      {
+        "name": "Durga McBroom",
+        "role": "Chœurs"
+      },
+      {
+        "name": "Margaret Taylor",
+        "role": "Chœurs"
+      }
+    ],
+    "notableSingles": [],
+    "cover": "./assets/pink_floyd_covers/thunder_live",
+    "description": "Premier album live de Pink Floyd sans Roger Waters, enregistré lors de la tournée A Momentary Lapse of Reason. Disponible en CD, cassette et VHS. Réédité en 2020 en Blu-ray, DVD et vinyle.",
+    "tracklist": [
+      {
+        "title": "Shine On You Crazy Diamond (Parts I-V) (live)",
+        "writer": "Roger Waters, David Gilmour, Richard Wright",
+        "duration": "11:10"
+      },
+      {
+        "title": "Signs of Life (live)",
+        "writer": "David Gilmour, Bob Ezrin",
+        "duration": "5:28"
+      },
+      {
+        "title": "Learning to Fly (live)",
+        "writer": "David Gilmour, Anthony Moore, Bob Ezrin, Jon Carin",
+        "duration": "5:47"
+      },
+      {
+        "title": "Yet Another Movie / Round and Around (live)",
+        "writer": "David Gilmour, Patrick Leonard",
+        "duration": "7:28"
+      },
+      {
+        "title": "A New Machine, Part 1 (live)",
+        "writer": "David Gilmour",
+        "duration": "1:30"
+      },
+      {
+        "title": "Terminal Frost (live)",
+        "writer": "David Gilmour",
+        "duration": "7:11"
+      },
+      {
+        "title": "A New Machine, Part 2 (live)",
+        "writer": "David Gilmour",
+        "duration": "0:38"
+      },
+      {
+        "title": "Sorrow (live)",
+        "writer": "David Gilmour",
+        "duration": "11:44"
+      },
+      {
+        "title": "The Dogs of War (live)",
+        "writer": "David Gilmour, Anthony Moore",
+        "duration": "7:50"
+      },
+      {
+        "title": "On the Turning Away (live)",
+        "writer": "David Gilmour, Anthony Moore",
+        "duration": "7:54"
+      },
+      {
+        "title": "One of These Days (live)",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "6:33"
+      },
+      {
+        "title": "Time (live)",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "7:04"
+      },
+      {
+        "title": "Wish You Were Here (live)",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "5:20"
+      },
+      {
+        "title": "Us and Them (live)",
+        "writer": "Roger Waters, Richard Wright",
+        "duration": "8:54"
+      },
+      {
+        "title": "Money (live)",
+        "writer": "Roger Waters",
+        "duration": "7:57"
+      },
+      {
+        "title": "Another Brick in the Wall, Part 2 (live)",
+        "writer": "Roger Waters",
+        "duration": "5:16"
+      },
+      {
+        "title": "Comfortably Numb (live)",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "8:39"
+      },
+      {
+        "title": "Run Like Hell (live)",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "7:28"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "artist": "Pink Floyd",
+    "title": "Pulse",
+    "albumType": "live",
+    "year": 1995,
+    "releaseDate": "29 mai 1995",
+    "label": "EMI",
+    "labelUS": "Columbia",
+    "studios": [],
+    "venue": "Earls Court Arena (Londres) et autres salles de la tournée Division Bell",
+    "concertDate": "20 octobre 1994 (Earls Court, Londres)",
+    "producer": "David Gilmour, Nick Mason, James Guthrie, Andy Jackson",
+    "genre": [
+      "Rock progressif"
+    ],
+    "members": [
+      {
+        "name": "David Gilmour",
+        "instruments": [
+          "Guitare",
+          "Chant",
+          "Basse",
+          "Claviers"
+        ]
+      },
+      {
+        "name": "Richard Wright",
+        "instruments": [
+          "Claviers",
+          "Chant",
+          "Piano",
+          "Orgue",
+          "Synthétiseur"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [
+      {
+        "name": "Jon Carin",
+        "role": "Claviers, chant"
+      },
+      {
+        "name": "Tim Renwick",
+        "role": "Guitare"
+      },
+      {
+        "name": "Guy Pratt",
+        "role": "Basse, chant"
+      },
+      {
+        "name": "Gary Wallis",
+        "role": "Percussions"
+      },
+      {
+        "name": "Dick Parry",
+        "role": "Saxophone"
+      },
+      {
+        "name": "Sam Brown",
+        "role": "Chœurs"
+      },
+      {
+        "name": "Durga McBroom",
+        "role": "Chœurs"
+      },
+      {
+        "name": "Carol Kenyon",
+        "role": "Chœurs"
+      },
+      {
+        "name": "Jackie Sherwood",
+        "role": "Chœurs"
+      },
+      {
+        "name": "Claudia Fontaine",
+        "role": "Chœurs"
+      }
+    ],
+    "notableSingles": [],
+    "cover": "./assets/pink_floyd_covers/pulse",
+    "description": "Double album live de la tournée The Division Bell. L'édition CD originale incluait une LED clignotante sur le dos du boîtier. Contient la seule performance officielle complète de The Dark Side of the Moon en live. Considéré comme l'un des meilleurs albums live de l'histoire du rock.",
+    "tracklist": [
+      {
+        "title": "Shine On You Crazy Diamond (Parts I-V) (live)",
+        "writer": "Roger Waters, David Gilmour, Richard Wright",
+        "duration": "10:56"
+      },
+      {
+        "title": "Astronomy Domine (live)",
+        "writer": "Syd Barrett",
+        "duration": "5:05"
+      },
+      {
+        "title": "What Do You Want from Me (live)",
+        "writer": "David Gilmour, Polly Samson, Bob Ezrin",
+        "duration": "4:58"
+      },
+      {
+        "title": "Learning to Fly (live)",
+        "writer": "David Gilmour, Anthony Moore, Bob Ezrin, Jon Carin",
+        "duration": "5:53"
+      },
+      {
+        "title": "Keep Talking (live)",
+        "writer": "David Gilmour, Polly Samson",
+        "duration": "7:48"
+      },
+      {
+        "title": "Coming Back to Life (live)",
+        "writer": "David Gilmour",
+        "duration": "7:22"
+      },
+      {
+        "title": "Hey You (live)",
+        "writer": "Roger Waters",
+        "duration": "5:28"
+      },
+      {
+        "title": "A Great Day for Freedom (live)",
+        "writer": "David Gilmour, Polly Samson",
+        "duration": "5:00"
+      },
+      {
+        "title": "Sorrow (live)",
+        "writer": "David Gilmour",
+        "duration": "11:30"
+      },
+      {
+        "title": "High Hopes (live)",
+        "writer": "David Gilmour, Polly Samson",
+        "duration": "9:16"
+      },
+      {
+        "title": "Another Brick in the Wall, Part 2 (live)",
+        "writer": "Roger Waters",
+        "duration": "5:51"
+      },
+      {
+        "title": "Speak to Me (live)",
+        "writer": "Nick Mason",
+        "duration": "1:30"
+      },
+      {
+        "title": "Breathe (live)",
+        "writer": "Roger Waters, David Gilmour, Richard Wright",
+        "duration": "3:04"
+      },
+      {
+        "title": "On the Run (live)",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "3:50"
+      },
+      {
+        "title": "Time (live)",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "7:43"
+      },
+      {
+        "title": "The Great Gig in the Sky (live)",
+        "writer": "Richard Wright",
+        "duration": "6:32"
+      },
+      {
+        "title": "Money (live)",
+        "writer": "Roger Waters",
+        "duration": "8:36"
+      },
+      {
+        "title": "Us and Them (live)",
+        "writer": "Roger Waters, Richard Wright",
+        "duration": "9:04"
+      },
+      {
+        "title": "Any Colour You Like (live)",
+        "writer": "David Gilmour, Richard Wright, Nick Mason",
+        "duration": "5:17"
+      },
+      {
+        "title": "Brain Damage (live)",
+        "writer": "Roger Waters",
+        "duration": "4:10"
+      },
+      {
+        "title": "Eclipse (live)",
+        "writer": "Roger Waters",
+        "duration": "2:33"
+      },
+      {
+        "title": "Wish You Were Here (live)",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "5:23"
+      },
+      {
+        "title": "Comfortably Numb (live)",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "9:17"
+      },
+      {
+        "title": "Run Like Hell (live)",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "8:28"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "artist": "Pink Floyd",
+    "title": "Is There Anybody Out There? The Wall Live 1980-81",
+    "albumType": "live",
+    "year": 2000,
+    "releaseDate": "27 mars 2000",
+    "label": "EMI",
+    "labelUS": "Columbia",
+    "studios": [],
+    "venue": "Earls Court Arena (Londres) / Nassau Coliseum (New York)",
+    "concertDate": "7 août 1980 – 17 juin 1981",
+    "producer": "James Guthrie",
+    "genre": [
+      "Rock progressif",
+      "Art rock"
+    ],
+    "members": [
+      {
+        "name": "David Gilmour",
+        "instruments": [
+          "Guitare",
+          "Chant",
+          "Basse",
+          "Claviers"
+        ]
+      },
+      {
+        "name": "Roger Waters",
+        "instruments": [
+          "Basse",
+          "Chant",
+          "Guitare"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [
+      {
+        "name": "Bob Ezrin",
+        "role": "Claviers, arrangements"
+      },
+      {
+        "name": "Michael Kamen",
+        "role": "Orchestre, piano"
+      },
+      {
+        "name": "Willie Wilson",
+        "role": "Batterie additionnelle"
+      },
+      {
+        "name": "Snowy White",
+        "role": "Guitare"
+      },
+      {
+        "name": "Andy Bown",
+        "role": "Claviers"
+      },
+      {
+        "name": "Peter Wood",
+        "role": "Claviers"
+      }
+    ],
+    "notableSingles": [],
+    "cover": "./assets/pink_floyd_covers/anybody",
+    "description": "Enregistrement officiel du spectacle The Wall Tour, l'un des shows live les plus élaborés de l'histoire du rock. La tournée ne comprend que 31 dates en raison du coût exorbitant de la production. Un mur de briques était véritablement construit sur scène pendant le concert.",
+    "tracklist": [
+      {
+        "title": "In the Flesh? (live)",
+        "writer": "Roger Waters",
+        "duration": "3:19"
+      },
+      {
+        "title": "The Thin Ice (live)",
+        "writer": "Roger Waters",
+        "duration": "2:29"
+      },
+      {
+        "title": "Another Brick in the Wall, Part 1 (live)",
+        "writer": "Roger Waters",
+        "duration": "3:36"
+      },
+      {
+        "title": "The Happiest Days of Our Lives (live)",
+        "writer": "Roger Waters",
+        "duration": "1:52"
+      },
+      {
+        "title": "Another Brick in the Wall, Part 2 (live)",
+        "writer": "Roger Waters",
+        "duration": "4:09"
+      },
+      {
+        "title": "Mother (live)",
+        "writer": "Roger Waters",
+        "duration": "6:08"
+      },
+      {
+        "title": "Goodbye Blue Sky (live)",
+        "writer": "Roger Waters",
+        "duration": "3:07"
+      },
+      {
+        "title": "Empty Spaces (live)",
+        "writer": "Roger Waters",
+        "duration": "2:08"
+      },
+      {
+        "title": "What Shall We Do Now? (live)",
+        "writer": "Roger Waters",
+        "duration": "4:19"
+      },
+      {
+        "title": "Young Lust (live)",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "3:43"
+      },
+      {
+        "title": "One of My Turns (live)",
+        "writer": "Roger Waters",
+        "duration": "3:36"
+      },
+      {
+        "title": "Don't Leave Me Now (live)",
+        "writer": "Roger Waters",
+        "duration": "4:25"
+      },
+      {
+        "title": "Another Brick in the Wall, Part 3 (live)",
+        "writer": "Roger Waters",
+        "duration": "1:26"
+      },
+      {
+        "title": "Goodbye Cruel World (live)",
+        "writer": "Roger Waters",
+        "duration": "1:14"
+      },
+      {
+        "title": "Hey You (live)",
+        "writer": "Roger Waters",
+        "duration": "4:43"
+      },
+      {
+        "title": "Is There Anybody Out There? (live)",
+        "writer": "Roger Waters",
+        "duration": "2:38"
+      },
+      {
+        "title": "Nobody Home (live)",
+        "writer": "Roger Waters",
+        "duration": "3:58"
+      },
+      {
+        "title": "Vera (live)",
+        "writer": "Roger Waters",
+        "duration": "1:57"
+      },
+      {
+        "title": "Bring the Boys Back Home (live)",
+        "writer": "Roger Waters",
+        "duration": "1:29"
+      },
+      {
+        "title": "Comfortably Numb (live)",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "6:59"
+      },
+      {
+        "title": "The Show Must Go On (live)",
+        "writer": "Roger Waters",
+        "duration": "1:23"
+      },
+      {
+        "title": "In the Flesh (live)",
+        "writer": "Roger Waters",
+        "duration": "4:07"
+      },
+      {
+        "title": "Run Like Hell (live)",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "4:16"
+      },
+      {
+        "title": "Waiting for the Worms (live)",
+        "writer": "Roger Waters",
+        "duration": "3:59"
+      },
+      {
+        "title": "Stop (live)",
+        "writer": "Roger Waters",
+        "duration": "0:29"
+      },
+      {
+        "title": "The Trial (live)",
+        "writer": "Roger Waters, Bob Ezrin",
+        "duration": "5:00"
+      },
+      {
+        "title": "Outside the Wall (live)",
+        "writer": "Roger Waters",
+        "duration": "1:45"
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "artist": "Pink Floyd",
+    "title": "Remember That Night: Live at the Royal Albert Hall",
+    "albumType": "live",
+    "year": 2007,
+    "releaseDate": "1er octobre 2007",
+    "label": "EMI",
+    "labelUS": "Capitol",
+    "studios": [],
+    "venue": "Royal Albert Hall (Londres)",
+    "concertDate": "31 mai 2006",
+    "producer": "David Gilmour",
+    "genre": [
+      "Rock progressif"
+    ],
+    "members": [
+      {
+        "name": "David Gilmour",
+        "instruments": [
+          "Guitare",
+          "Chant",
+          "Basse",
+          "Claviers"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [
+      {
+        "name": "Richard Wright",
+        "role": "Claviers, chant"
+      },
+      {
+        "name": "Jon Carin",
+        "role": "Claviers, chant"
+      },
+      {
+        "name": "Tim Renwick",
+        "role": "Guitare"
+      },
+      {
+        "name": "Guy Pratt",
+        "role": "Basse, chant"
+      },
+      {
+        "name": "Steve DiStanislao",
+        "role": "Batterie, chant"
+      },
+      {
+        "name": "Dick Parry",
+        "role": "Saxophone"
+      },
+      {
+        "name": "David Bowie",
+        "role": "Chant sur 'Arnold Layne' (nuit 2)"
+      },
+      {
+        "name": "Robert Wyatt",
+        "role": "Chant sur 'Comfortably Numb' (nuit 1)"
+      }
+    ],
+    "notableSingles": [],
+    "cover": "./assets/pink_floyd_covers/remember",
+    "description": "Live de la tournée On an Island de David Gilmour, capturé au Royal Albert Hall. Bien que crédité à Gilmour en solo, Wright et Mason participent. David Bowie est apparu pour chanter 'Arnold Layne' lors de la deuxième nuit.",
+    "tracklist": [
+      {
+        "title": "Speak to Me / Breathe (live)",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "5:00"
+      },
+      {
+        "title": "Time / Breathe (Reprise) (live)",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "7:58"
+      },
+      {
+        "title": "Castellorizon (live)",
+        "writer": "David Gilmour",
+        "duration": "4:18"
+      },
+      {
+        "title": "On an Island (live)",
+        "writer": "David Gilmour, Polly Samson",
+        "duration": "7:19"
+      },
+      {
+        "title": "The Blue (live)",
+        "writer": "David Gilmour, Polly Samson",
+        "duration": "6:05"
+      },
+      {
+        "title": "Mihail (live)",
+        "writer": "David Gilmour, Polly Samson",
+        "duration": "5:12"
+      },
+      {
+        "title": "A Pocketful of Stones (live)",
+        "writer": "David Gilmour, Polly Samson",
+        "duration": "6:54"
+      },
+      {
+        "title": "Where We Start (live)",
+        "writer": "David Gilmour, Polly Samson",
+        "duration": "6:23"
+      },
+      {
+        "title": "Shine On You Crazy Diamond (Parts I-V) (live)",
+        "writer": "Roger Waters, David Gilmour, Richard Wright",
+        "duration": "13:15"
+      },
+      {
+        "title": "Wearing the Inside Out (live)",
+        "writer": "Richard Wright, Anthony Moore",
+        "duration": "7:22"
+      },
+      {
+        "title": "Fat Old Sun (live)",
+        "writer": "David Gilmour",
+        "duration": "6:19"
+      },
+      {
+        "title": "High Hopes (live)",
+        "writer": "David Gilmour, Polly Samson",
+        "duration": "10:04"
+      },
+      {
+        "title": "Echoes (live)",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "24:13"
+      },
+      {
+        "title": "Wish You Were Here (live)",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "6:17"
+      },
+      {
+        "title": "Comfortably Numb (live)",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "10:12"
+      },
+      {
+        "title": "Arnold Layne (live, with David Bowie)",
+        "writer": "Syd Barrett",
+        "duration": "3:54"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "artist": "Pink Floyd",
+    "title": "The Dark Side of the Moon — Live at Wembley 1974",
+    "albumType": "live",
+    "year": 2023,
+    "releaseDate": "24 mars 2023",
+    "label": "Pink Floyd Records",
+    "labelUS": "Pink Floyd Records",
+    "studios": [],
+    "venue": "Wembley Empire Pool (Londres)",
+    "concertDate": "20 novembre 1974",
+    "producer": "Pink Floyd, Andy Jackson",
+    "genre": [
+      "Rock progressif"
+    ],
+    "members": [
+      {
+        "name": "David Gilmour",
+        "instruments": [
+          "Guitare",
+          "Chant",
+          "Basse",
+          "Claviers"
+        ]
+      },
+      {
+        "name": "Roger Waters",
+        "instruments": [
+          "Basse",
+          "Chant",
+          "Guitare"
+        ]
+      },
+      {
+        "name": "Richard Wright",
+        "instruments": [
+          "Claviers",
+          "Chant",
+          "Piano",
+          "Orgue",
+          "Synthétiseur"
+        ]
+      },
+      {
+        "name": "Nick Mason",
+        "instruments": [
+          "Batterie",
+          "Percussions"
+        ]
+      }
+    ],
+    "guests": [
+      {
+        "name": "Dick Parry",
+        "role": "Saxophone"
+      },
+      {
+        "name": "Venetta Fields",
+        "role": "Chœurs"
+      },
+      {
+        "name": "Carlena Williams",
+        "role": "Chœurs"
+      }
+    ],
+    "notableSingles": [],
+    "cover": "./assets/pink_floyd_covers/dark_side_live",
+    "description": "Extrait du coffret 50e anniversaire de The Dark Side of the Moon. Capture la performance live complète de l'album au Wembley Empire Pool en 1974, un an après sa sortie. La qualité sonore a été remarquablement restaurée par Andy Jackson.",
+    "tracklist": [
+      {
+        "title": "Speak to Me / Breathe (live)",
+        "writer": "Nick Mason / Roger Waters, David Gilmour, Richard Wright",
+        "duration": "4:41"
+      },
+      {
+        "title": "On the Run (live)",
+        "writer": "Roger Waters, David Gilmour",
+        "duration": "4:28"
+      },
+      {
+        "title": "Time / Breathe (Reprise) (live)",
+        "writer": "Roger Waters, David Gilmour, Richard Wright, Nick Mason",
+        "duration": "8:08"
+      },
+      {
+        "title": "The Great Gig in the Sky (live)",
+        "writer": "Richard Wright",
+        "duration": "5:08"
+      },
+      {
+        "title": "Money (live)",
+        "writer": "Roger Waters",
+        "duration": "8:21"
+      },
+      {
+        "title": "Us and Them (live)",
+        "writer": "Roger Waters, Richard Wright",
+        "duration": "9:04"
+      },
+      {
+        "title": "Any Colour You Like (live)",
+        "writer": "David Gilmour, Richard Wright, Nick Mason",
+        "duration": "5:06"
+      },
+      {
+        "title": "Brain Damage (live)",
+        "writer": "Roger Waters",
+        "duration": "4:09"
+      },
+      {
+        "title": "Eclipse (live)",
+        "writer": "Roger Waters",
+        "duration": "2:04"
+      }
+    ]
+  }
+]

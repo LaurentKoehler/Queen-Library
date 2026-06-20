@@ -1,12 +1,12 @@
 import { useSearchParams } from "react-router-dom"
-import Album from "../components/Album"
-import queenData from '../data/queenData.json'
-import type { Album as AlbumData } from "../types/types"
+import Album from "../../components/Album"
+import queenData from '../../data/queenData.json'
+import type { Album as AlbumData } from "../../types/types"
 
 const albums = queenData as AlbumData[]
 
 
-function Home() {
+function QueenHome() {
     const [searchParams] = useSearchParams()
     const activeFilter = searchParams.get("filter") ?? "all"
     const songQuery = searchParams.get("song") ?? ""
@@ -38,4 +38,4 @@ function Home() {
     )
 }
 
-export default Home
+export default QueenHome

@@ -1,20 +1,23 @@
 import { Link, useNavigate, useSearchParams } from "react-router-dom"
 
 
-function Header() {
+function QueenHeader() {
     const navigate = useNavigate()
     const [searchParams] = useSearchParams()
     const currentSearch = searchParams.get("song") || searchParams.get("year") || ""
     return (
-        <header>
-            <Link to="/">
+        <header className="queen-header">
+            <Link to="/queen">
                 <img src={`${import.meta.env.BASE_URL}assets/headerTOOAO.png`} alt="Queen" />
             </Link>
             <nav>
-                <button onClick={() => navigate("/?filter=studio")}>Studio</button>
-                <button onClick={() => navigate("/?filter=live")}>Live</button>
-                <button onClick={() => navigate("/?filter=compilation")}>Compilation</button>
-                <button onClick={() => navigate("/?filter=all")}>All</button>
+                <Link to="/">
+                    <img src={`${import.meta.env.BASE_URL}assets/rock_logo.png`} alt="Rock Library" className='rock-logo' />
+                </Link>
+                <button onClick={() => navigate("/queen?filter=studio")}>Studio</button>
+                <button onClick={() => navigate("/queen?filter=live")}>Live</button>
+                <button onClick={() => navigate("/queen?filter=compilation")}>Compilation</button>
+                <button onClick={() => navigate("/queen?filter=all")}>All</button>
                 <input
                     type="search"
                     placeholder="Chanson ou Année..."
@@ -31,4 +34,4 @@ function Header() {
     )
 }
 
-export default Header
+export default QueenHeader

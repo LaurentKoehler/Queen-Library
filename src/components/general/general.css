@@ -1,0 +1,76 @@
+/*  ═════════════════════════════
+    Variables de couleurs général 
+    ═════════════════════════════ */
+.general-theme {
+    --primary-color: #0d0a05;
+    --accent-color: #cc2200;
+    --bg-color: #f5e6c8;
+    --text-color: #f5e6c8;
+    --text-secondary: #a89070;
+    --card-color: #1a0a00;
+    --border-color: #c9a84c;
+    --header-color: #3d1a00;
+    --nav-color: #0a0a0a;
+
+    font-family: 'Cinzel', serif;
+    color: var(--text-color);
+    background-color: var(--primary-color);
+}
+
+/* ── Header ── */
+.general-header {
+    background-color: var(--header-color);
+
+    img {
+        height: 30vh;
+        width: auto;
+    }
+
+    nav {
+        background-color: var(--nav-color);
+        color: var(--text-color);
+        gap: 1rem;
+
+        .nav-select {
+            background-color: var(--nav-color);
+            color: var(--text-color);
+            border: none;
+            border-radius: 9999px;
+            padding: 0.3rem 1rem;
+            font-family: 'Cinzel', serif;
+            appearance: none;
+            -webkit-appearance: none;
+            cursor: pointer;
+            text-align: center;
+            text-align-last: center;
+        }
+    }
+}
+
+/* ── Main ── */
+.general-main {
+    background-color: #f5e6c8;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+    border: 1rem solid var(--nav-color);
+    border-radius: 35px;
+}
+
+h1 {
+    color: black;
+}
+
+/* ── Album card ── */
+.general-theme .album {
+    background-color: var(--card-color);
+    border: 1px solid var(--border-color);
+    box-shadow: 5px 5px 40px 5px #000000;
+
+    h2 {
+        color: var(--text-color);
+    }
+}
+
+/* ── Footer ── */
+.general-footer {
+    background-color: var(--primary-color);
+}

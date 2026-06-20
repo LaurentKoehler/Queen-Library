@@ -1,8 +1,8 @@
-import Header from "./components/Header"
-import Footer from "./components/Footer"
 import { Outlet } from "react-router-dom"
 import { useEffect } from "react"
 import { useLocation } from "react-router-dom"
+import QueenHeader from "../components/queen/QueenHeader"
+import QueenFooter from "../components/queen/QueenFooter"
 
 function ScrollToTop() {
   const { pathname } = useLocation()
@@ -15,18 +15,18 @@ function ScrollToTop() {
 }
 
 
-function App() {
+function QueenLayout() {
 
   return (
-    <>
+    <div className="queen-theme">
       <ScrollToTop />
-      <Header />
-      <main>
+      <QueenHeader />
+      <main className="queen-main">
         <Outlet />
       </main>
-      <Footer />
-    </>
+      <QueenFooter />
+    </div>
   )
 }
 
-export default App
+export default QueenLayout

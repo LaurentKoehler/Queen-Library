@@ -1,19 +1,66 @@
 @import "reset.css";
 @import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=EB+Garamond:wght@400;500;600&display=swap');
 
-body {
-    font-family: 'Cinzel', serif;
-    background-color: black;
-}
+/* ── Header ── */
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
 
-.description {
-    font-family: 'EB Garamond', serif;
-    font-size: large
-}
+    img {
+        width: 40vw;
+        padding-top: 1rem;
+    }
 
+    nav {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        color: whitesmoke;
+        width: 100%;
+        height: 3rem;
+        background-color: black;
+        border-top-left-radius: 35px;
+        border-top-right-radius: 35px;
+
+        button {
+            min-width: 8%;
+            background: none;
+            border: none;
+            padding: 0;
+            margin: 0;
+            cursor: pointer;
+        }
+
+        input {
+            position: absolute;
+            right: 5rem;
+            font-family: 'EB Garamond', serif;
+            color: black;
+            background: white;
+            border: none;
+            border-bottom: 2px solid var(--accent-color);
+            padding: 0.2rem 0.8rem;
+            width: 200px;
+            outline: none;
+            border-radius: 9999px;
+
+            &::placeholder {
+                color: #888;
+                font-style: italic;
+            }
+
+            &:focus {
+                width: 220px;
+                transition: width 0.3s ease;
+            }
+        }
+    }
+}
 
 main {
-    background-color: blanchedalmond;
     min-height: 65vh;
     padding: 0 2rem 2rem 2rem;
     border-radius: 35px;
@@ -31,6 +78,194 @@ main {
     }
 }
 
+/* ── Album grid ── */
+.album {
+    max-width: 250px;
+    padding: 1rem;
+    box-sizing: border-box;
+    border-radius: 5%;
+    margin: 2rem 0;
+    overflow: hidden;
+    box-shadow: 5px 5px 40px 5px #000000;
+
+    img {
+        width: 100%;
+        aspect-ratio: 1 / 1;
+        object-fit: cover;
+        border-radius: 5%;
+    }
+
+    h2 {
+        margin: 5px 0 0;
+        font-size: 16px;
+        padding-top: 1rem;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        -webkit-line-clamp: 2;
+        overflow: hidden;
+    }
+}
+
+/* ── Album Details ── */
+.album-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    h1 {
+        text-align: center;
+        font-size: 4rem;
+        width: 100%;
+    }
+
+    .cover-and-track {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: flex-start;
+        width: 100%;
+        gap: 2rem;
+        padding: 2rem;
+
+        img {
+            width: 30%;
+            border-radius: 5%;
+            aspect-ratio: 1/1;
+            object-fit: cover;
+            align-self: flex-start;
+            box-shadow: 0 0 19px 7px rgba(0, 0, 0, 0.41);
+        }
+
+        .tracklist {
+            ol {
+                list-style: decimal;
+                padding-left: 1.5rem;
+            }
+        }
+    }
+
+    .nav-buttons {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        padding: 1rem 2rem;
+
+        button {
+            background: none;
+            border: none;
+            cursor: pointer;
+            font-family: 'Cinzel', serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0.3rem;
+
+            .arrow {
+                font-size: 4rem;
+                line-height: 1;
+                font-weight: 700;
+            }
+
+            .album-name {
+                font-size: 1rem;
+                font-family: 'EB Garamond', serif;
+                font-style: italic;
+            }
+
+            &:hover .arrow {
+                transform: scale(1.2);
+                transition: transform 0.2s ease;
+            }
+        }
+    }
+}
+
+.bottom-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    gap: 2rem;
+    padding: 0 2rem;
+    align-items: flex-start;
+
+    .description {
+        padding-left: 3.5rem;
+        max-width: 40%;
+        font-family: 'EB Garamond', serif;
+        font-size: large;
+
+        h3 {
+            padding-top: 1rem;
+        }
+
+        p {
+            padding: 1rem 0;
+        }
+    }
+
+    iframe {
+        width: 25%;
+        align-self: flex-start;
+        margin-top: 3rem;
+        margin-right: 8%;
+        border: none;
+        border-radius: 15px;
+        height: 550px;
+        box-shadow: 0 0 30px 7px rgba(0, 0, 0, 0.45);
+    }
+}
+
+/* ── Footer ── */
+footer {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 1rem 2rem;
+
+    .footer-top {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+
+        nav {
+            display: flex;
+            align-items: center;
+            gap: 1.5rem;
+            font-size: 1.5rem;
+            flex: 1;
+
+            a {
+                color: #fff;
+                text-decoration: none;
+
+                &:hover {
+                    color: #aaa;
+                }
+            }
+        }
+
+        span {
+            display: flex;
+            align-items: center;
+            gap: 2rem;
+            flex: 1;
+        }
+    }
+
+    p {
+        color: #aaa;
+        font-size: 1rem;
+        margin: 0;
+        padding: 0.5rem 0;
+    }
+}
+
+
+/* ── Media Queries ── */
 @media screen and (max-width: 768px) {
 
     main {
@@ -43,6 +278,47 @@ main {
 
         h1 {
             font-size: 2rem;
+        }
+    }
+
+    footer {
+        background-color: black;
+        color: white;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1rem 2rem;
+        height: 7rem;
+
+        nav {
+            display: flex;
+            align-items: center;
+            gap: 1.5rem;
+            font-size: 1.5rem;
+            flex: 1;
+
+            a {
+                color: #fff;
+                text-decoration: none;
+
+                &:hover {
+                    color: #aaa;
+                }
+            }
+        }
+
+        span {
+            display: flex;
+            align-items: center;
+            gap: 2rem;
+            flex: 1;
+            justify-content: flex-end;
+
+            p {
+                color: #aaa;
+                font-size: 1rem;
+                margin: 0;
+            }
         }
     }
 }

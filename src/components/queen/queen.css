@@ -1,0 +1,66 @@
+/* ═════════════════════════════
+   Variables de couleurs — Queen
+   ═════════════════════════════ */
+:root {
+    --primary-color: #0d3649;
+    --accent-color: #c9a84c;
+    --bg-color: blanchedalmond;
+    --text-color: white;
+    --nav-color: black;
+}
+
+.queen-theme {
+    font-family: 'Cinzel', serif;
+    background-color: black;
+}
+
+/* ── Header ── */
+.queen-header {
+    background-color: var(--primary-color);
+
+    img {
+        padding: 2rem 0;
+    }
+
+    nav {
+        background-color: var(--nav-color);
+
+        .rock-logo {
+            height: 3.5rem;
+            width: auto;
+            padding: 0;
+        }
+    }
+}
+
+
+/* ── Main ── */
+.queen-main {
+    background-color: #f5e6c8;
+    background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
+    border: 1rem solid black;
+
+}
+
+/* ── Album card ── */
+.album {
+    background-color: var(--primary-color);
+    border: 1px solid var(--accent-color);
+
+    h2 {
+        color: var(--text-color);
+    }
+}
+
+/* ── Footer ── */
+.queen-footer {
+
+    .rock-logo {
+        height: 5rem;
+    }
+
+    .queen-logo {
+        filter: brightness(0) invert(1);
+        height: 2rem;
+    }
+}
