@@ -21,10 +21,14 @@ function GeneralHeader() {
                     navigate(`/?decade=${decade}`)
                 }}>
                     <option value="">Décennies</option>
+                    <option value="196">60s</option>
                     <option value="197">70s</option>
                     <option value="198">80s</option>
                     <option value="199">90s</option>
                     <option value="200">2000s</option>
+                    <option value="201">2010s</option>
+                    <option value="202">2020s</option>
+
                 </select>
                 <input
                     type="search"
