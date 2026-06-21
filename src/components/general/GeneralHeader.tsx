@@ -25,9 +25,17 @@ function GeneralHeader() {
                     <option value="198">80s</option>
                     <option value="199">90s</option>
                     <option value="200">2000s</option>
-                </select>                <input
+                </select>
+                <input
                     type="search"
-                    placeholder="Rechercher..." />
+                    placeholder="Rechercher..."
+                    value={searchParams.get("search") ?? ""}
+                    onChange={(e) => {
+                        const decade = searchParams.get("decade") ?? ""
+                        const value = e.target.value
+                        navigate(`/?decade=${decade}&search=${value}`)
+                    }}
+                />
             </nav>
         </header>
     )

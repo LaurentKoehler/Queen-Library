@@ -7,14 +7,28 @@ const allAlbums: Album[] = Object.values(dataMap).flat()
 function HomeGeneral() {
     const [searchParams] = useSearchParams()
     const decadeQuery = searchParams.get("decade") ?? ""
+    const searchQuery = searchParams.get("search") ?? ""
 
     const filteredAlbums = [...allAlbums]
-        .sort(() => Math.random() - 0.5)
+        .filter((album) => {
+            if (searchQuery === "") return true
+            const q = searchQuery.toLowerCase()
+            return (
+                album.year.toString().includes(q) ||
+                album.artist.toLowerCase().includes(q) ||
+                album.title.toLowerCase().includes(q) ||
+                album.genre.some(g => g.toLowerCase().includes(q)) ||
+                album.members.some(m => m.name.toLowerCase().includes(q)) ||
+                album.guests.some(g => g.name.toLowerCase().includes(q)) ||
+                album.tracklist.some(t => t.title.toLowerCase().includes(q))
+            )
+        })
         .filter((album) => {
             if (decadeQuery === "") return true
             return album.year.toString().startsWith(decadeQuery)
         })
-        .slice(0, 20)
+        .sort(() => searchQuery === "" && decadeQuery === "" ? Math.random() - 0.5 : 0)
+        .slice(0, searchQuery === "" && decadeQuery === "" ? 20 : Infinity)
 
     return (
         <div>
