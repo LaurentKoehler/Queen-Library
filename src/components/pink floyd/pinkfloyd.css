@@ -53,6 +53,12 @@
 .pink-floyd-main {
     background-color: var(--bg-color);
     border: 1rem solid var(--nav-color);
+
+    h1 {
+        -webkit-text-stroke: 1px var(--border-color);
+        color: var(--bg-color);
+        text-shadow: 0 0 15px rgba(79, 195, 247, 0.8), 0 0 30px rgba(79, 195, 247, 0.4);
+    }
 }
 
 /* ── Album card ── */
